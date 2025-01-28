@@ -1,13 +1,9 @@
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 
 title: Paolo Gandini
 logo: images/PG.png
@@ -16,23 +12,9 @@ email: paolo.gandini@gmail.com
 description: Primo Ricercatore INFN
 
 
+###################
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
-
-###################
-#theme: minima
-#minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
-  #skin: classic
-#header_pages:
-  #- about.md
 ###################
 
 

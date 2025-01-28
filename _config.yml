@@ -20,8 +20,8 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 
 ###################
-theme: minima
-minima:
+#theme: minima
+#minima:
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
@@ -30,9 +30,9 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
-header_pages:
-  - about.md
+  #skin: classic
+#header_pages:
+  #- about.md
 ###################
 
 

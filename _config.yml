@@ -14,9 +14,27 @@ logo: images/PG.png
 image: images/profile1.png
 email: paolo.gandini@gmail.com
 description: Primo Ricercatore INFN
-google_analytics:
+
+
 #theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+
+###################
+theme: minima
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: classic
+header_pages:
+  - about.md
+###################
+
 
 plugins:
   - jekyll-remote-theme

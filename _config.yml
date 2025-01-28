@@ -13,10 +13,10 @@ description: Primo Ricercatore INFN
 
 
 ###################
-theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+#theme: jekyll-theme-minimal
+#remote_theme: pages-themes/minimal@v0.2.0
 ###################
-#remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+theme: just-the-docs
 
 plugins:
   - jekyll-include-cache

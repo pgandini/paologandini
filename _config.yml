@@ -16,6 +16,7 @@ email: paolo.gandini@gmail.com
 description: Primo Ricercatore INFN
 google_analytics:
 #theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: sighingnow/jekyll-gitbook
 plugins:
 - jekyll-remote-theme

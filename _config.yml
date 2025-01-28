@@ -17,6 +17,11 @@ description: Primo Ricercatore INFN
 google_analytics:
 #theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
-#remote_theme: sighingnow/jekyll-gitbook
+
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap

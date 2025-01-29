@@ -2,6 +2,8 @@ title: Paolo Gandini
 description: Personal site of Paolo Gandini - INFN Milano
 theme: just-the-docs
 url: https://pgandini.github.io/paologandini/
+logo: "/assets/images/favicon.ico"
+favicon_ico: "/assets/images/favicon.ico"
 
 plugins:
   - jekyll-default-layout

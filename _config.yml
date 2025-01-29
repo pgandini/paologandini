@@ -5,5 +5,15 @@ url: https://pgandini.github.io/paologandini/
 logo: "/assets/images/PG.png"
 favicon_ico: "/assets/images/favicon.ico"
 
+######################################################
+# Aux links for the upper right navigation
+aux_links:
+  "LHCb":
+    - "https://lhcb-outreach.web.cern.ch/"
+    
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+######################################################
+
 plugins:
   - jekyll-default-layout

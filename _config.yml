@@ -20,6 +20,7 @@ aux_links:
 aux_links_new_tab: false
 ######################################################
 # Social links
+social: false
 linkedin_url: https://www.linkedin.com/in/paolo-gandini-04a47a18
 instagram_url: https://www.instagram.com/paologandini/
 ######################################################

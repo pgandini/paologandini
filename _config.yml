@@ -14,11 +14,8 @@ description: Primo Ricercatore INFN
 
 ###################
 #theme: jekyll-theme-minimal
-###################
 remote_theme: pages-themes/minimal@v0.2.0
 ###################
-# Build settings
-#theme: just-the-docs
 
 
 

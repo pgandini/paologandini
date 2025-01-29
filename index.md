@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav_sort: 1
+nav_order: 1
 ---
 ![Profile Picture](assets/images/profile1.png)
 # Paolo Gandini

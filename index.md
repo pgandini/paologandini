@@ -5,7 +5,6 @@ nav_order: 1
 ---
 ![Profile Picture](assets/images/profile1.png)
 # Paolo Gandini
-#### Primo Ricercatore INFN
 
 I am a staff researcher at Istituto Nazionale Fisica Nucleare (INFN).
 Experimental particle physicst working at the LHCb experiment at CERN since 2009.

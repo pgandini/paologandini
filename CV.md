@@ -3,4 +3,5 @@ title: Vitae
 layout: home
 ---
 # Curriculum Vitae
-This is the CV of Paolo Gandini
+Please find a pdf version of my CV [here](https://github.com/pgandini/paologandini/CV/CV_gandini_28012025.pdf)
+

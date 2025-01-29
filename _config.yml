@@ -4,7 +4,7 @@ theme: just-the-docs
 url: https://pgandini.github.io/paologandini/
 logo: "/assets/images/PG.png"
 favicon_ico: "/assets/images/favicon.ico"
-color_scheme: dark
+#color_scheme: dark
 
 ######################################################
 # Aux links for the upper right navigation

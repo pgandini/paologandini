@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: home
-nav_sort: 2
+nav_order: 2
 ---
 # Research Interests
 Here are my research interests

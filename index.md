@@ -2,6 +2,7 @@
 title: Home
 layout: home
 ---
+{% include breadcrumbs.html %}
 ![Profile Picture](assets/images/profile1.png)
 # Paolo Gandini
 I am a staff researcher at Istituto Nazionale Fisica Nucleare (INFN).

@@ -7,11 +7,6 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<ul>
-  {% for item in site.pages %}
-    <li {% if page.url contains item.url %}class="active"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>
-  {% endfor %}
-</ul>
     
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">

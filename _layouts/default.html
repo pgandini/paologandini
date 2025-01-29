@@ -21,6 +21,7 @@ layout: table_wrappers
     <div class="main-content-wrap">
       {% include components/breadcrumbs.html %}
       {% include breadcrumbs.html %}
+      {% include follow-buttons.html %}
       <div id="main-content" class="main-content">
         <main>
           {% if site.heading_anchors != false %}
@@ -44,6 +45,5 @@ layout: table_wrappers
   {% if site.mermaid %}
     {% include components/mermaid.html %}
   {% endif %}
-{% include follow-buttons.html %}
 </body>
 </html>

@@ -2,13 +2,13 @@
 title: Research
 layout: home
 accordion: 
-  - title: this is item 1
+  - title: Research1
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-  - title: this is item 2
+  - title: Research2
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
 # Research Interests
 Here are my research interests
-Ciao
+
 {% include accordion.html %}
-Ciao
+

@@ -9,6 +9,8 @@ color_scheme: gandini
 ######################################################
 # Aux links for the upper right navigation
 aux_links:
+  "INFN":
+    - "https://home.infn.it/it/"
   "LHCb":
     - "https://lhcb-outreach.web.cern.ch/"
   "CERN":

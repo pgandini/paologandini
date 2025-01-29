@@ -4,13 +4,13 @@ theme: just-the-docs
 url: https://pgandini.github.io/paologandini/
 logo: "/assets/images/PG.png"
 favicon_ico: "/assets/images/favicon.ico"
+color_scheme: dark
 
 ######################################################
 # Aux links for the upper right navigation
 aux_links:
   "LHCb":
     - "https://lhcb-outreach.web.cern.ch/"
-    - "https://web.infn.it/lhcb_milano/"
   "CERN":
     - "https://home.cern/"
     

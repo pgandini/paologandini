@@ -17,7 +17,8 @@ description: Primo Ricercatore INFN
 remote_theme: pages-themes/minimal@v0.2.0
 ###################
 
-
+pages:
+  - index
 
 plugins:
   - jekyll-include-cache

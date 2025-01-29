@@ -11,10 +11,10 @@ color_scheme: gandini
 aux_links:
   "INFN":
     - "https://home.infn.it/it/"
-  "LHCb":
-    - "https://lhcb-outreach.web.cern.ch/"
   "CERN":
     - "https://home.cern/"
+  "LHCb":
+    - "https://lhcb-outreach.web.cern.ch/"
     
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false

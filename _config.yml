@@ -10,6 +10,9 @@ favicon_ico: "/assets/images/favicon.ico"
 aux_links:
   "LHCb":
     - "https://lhcb-outreach.web.cern.ch/"
+    - "https://web.infn.it/lhcb_milano/"
+  "CERN":
+    - "https://home.cern/"
     
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false

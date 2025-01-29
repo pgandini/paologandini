@@ -1,16 +1,15 @@
 # Template
 This site is based on the [Just the Docs] theme
 
-## Update the following files to your own content:
+### Update the following files to your own content:
 - `index.md` (your new home page)
 - `README.md` (information for those who access your site repo on GitHub)
-- 
-## Changing the version of the theme and/or Jekyll
+ 
+### Changing the version of the theme and/or Jekyll
 Simply edit the relevant line(s) in the `Gemfile`.
 
-## Adding a plugin
+### Adding a plugin
 The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
-
 To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
 
 - Add the following to your site's `Gemfile`:

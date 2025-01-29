@@ -19,6 +19,10 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 ######################################################
+# Social links
+linkedin_url: www.linkedin.com/in/paolo-gandini-04a47a18
+instagram_url: https://www.instagram.com/paologandini/
+######################################################
 
 plugins:
   - jekyll-default-layout

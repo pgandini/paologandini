@@ -10,6 +10,8 @@ color_scheme: gandini
 ######################################################
 # Aux links for the upper right navigation
 aux_links:
+  "OrcidID":
+    - "https://orcid.org/0000-0001-7267-6008"
   "INFN":
     - "https://home.infn.it/it/"
   "CERN":

@@ -45,17 +45,20 @@ Partecipo all’organizzazione dello stand INFN per la Notte dei Ricercatori che
 
 
 
-2. Scientific Fair: Antimatter Matters (Summer Science Exhibition 2016)
-Date: 4 Luglio - 10 Luglio 2016
+### Scientific Fair: Antimatter Matters (Summer Science Exhibition 2016)
+
+Date: 4th July - 10th july 2016
+
 Location: Royal Society, London. (http://antimatter-matters.org/)
-Audience: piu di 10k persone nel corso dell’evento.
+
+Audience: 10k+ persons
+
 Stand alla convention “Summer Science Exhibition”, organizzata dalla Royal Society. Ho realizzato diversi esperimenti sulla violazione CP e ho rappresentato il gruppo di LHCb Oxford. Lo stand ha poi visitato altre fiere e dipartimenti UK negli anni successivi.
 
 
 
-3. CERN and LHCb official guide
-Dal 2013 - presente.
-Official guide at CERN and the LHCb experiment
+### CERN and LHCb official guide
+From 2013, I am a trained guide for official visits at CERN and the LHCb experiment
 
 
 

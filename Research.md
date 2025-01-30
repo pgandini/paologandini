@@ -11,6 +11,9 @@ During my PhD, I joined the LHCb experiment at CERN, becoming a member of the co
 - Within the LHCb collaboration, I have held and continue to hold several coordination roles. I am the author of at least 20 internal analysis notes, either as a contact author or proposer, as well as numerous peer-reviewed journal publications. I coordinate various research initiatives focused on the search for both exotic and conventional states, proposing new decay channels for investigation.
 
 
+- I am a member of the LHCb Collaboration at CERN since 2009.
+- I am a founding member of the ALADDIN collaboration (established in 2024).
+
 ### Data Analysis - Spectroscopy of new states
 <details>
 <summary>Click to expand</summary>

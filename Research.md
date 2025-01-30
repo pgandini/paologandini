@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: home
+layout: page
 nav_order: 3
 ---
 # Research Interests

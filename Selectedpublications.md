@@ -19,9 +19,10 @@ My complete list of publications can be found on [[INSPIRE]](https://inspirehep.
 | 2020 |LHCb Collaboration: Aaij,  R. and others. Measurement of observables in decays using two-body final states. JHEP 04 (2021) 81  ePrint: 2012.09903 DOI: 10.1007/JHEP04(2021)081 |
 | 2020 |LHCb Collaboration: Aaij,  R. and others. Observation of a new baryon state in the mass spectrum. JHEP 06 (2020) 136 ePrint: 2002.05112 DOI: 10.1007/JHEP06(2020)136 |
 | 2019 |	LHCb Collaboration: Aaij,  R. and others. Observation of new resonances in the system. PRL 123 (2019) 15, 152001 ePrint: 1907.13598 DOI: 10.1103/PhysRevLett.123.152001 |
-| 2019 |	"LHCb Collaboration: Aaij,  R. and others.
-Observation of two resonances in ￼ and precise measurement of ￼ and ￼ properties.
-PRL 122 (2019) 1, 012001 ePrint: 1809.07752 DOI: 10.1103/PhysRevLett.122.012001"
+| 2019 |	"LHCb Collaboration: Aaij,  R. and others. Observation of two resonances in and precise measurement of and properties. PRL 122 (2019) 1, 012001 ePrint: 1809.07752 DOI: 10.1103/PhysRevLett.122.012001 |
+
+
+
 2018	"LHCb Collaboration: Aaij,  R. and others.
 Search for beautiful tetraquarks in the ￼ invariant-mass spectrum.
 JHEP 10 (2018) 086 ePrint: 1806.09707 DOI: 10.1007/JHEP10(2018)086"

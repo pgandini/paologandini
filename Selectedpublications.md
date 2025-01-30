@@ -13,8 +13,8 @@ My complete list of publications can be found on [[INSPIRE]](https://inspirehep.
 | Year     | Title         |
 |:---------|:---------------------|
 | 2024     | The ALADDIN proto-collaboration: Neri, N. and others. |  
-           |Advancements in techniques for measuring dipole moments of short-lived particles at the LHC |
-           | NIMA 169875 (2024) DOI: https://doi.org/10.1016/j.nima.2024.169875" |
+|          |Advancements in techniques for measuring dipole moments of short-lived particles at the LHC |
+|          | NIMA 169875 (2024) DOI: https://doi.org/10.1016/j.nima.2024.169875" |
 |:---------|:---------------------|
 
 |:-------------|:-----------------------------------------------------------|

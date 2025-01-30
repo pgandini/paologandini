@@ -7,11 +7,11 @@ nav_order: 3
 
 1. Introduzione
 Ciao
-[/expand]La mia carriera scientifica è iniziata nell’esperimento BaBar (SLAC) con la misura di polarizzazione di decadimenti in mesoni assiali. Tale lavoro, primo nel suo genere, è stato pubblicato in PRD.
+[expand]La mia carriera scientifica è iniziata nell’esperimento BaBar (SLAC) con la misura di polarizzazione di decadimenti in mesoni assiali. Tale lavoro, primo nel suo genere, è stato pubblicato in PRD.
 Durante il dottorato, ho iniziato a lavorare nell’esperimento LHCb (CERN). Sono membro della collaborazione  LHCb dal 2009 ed ho firmato tutti i suoi articoli, documenti tecnici e report. Mi sono occupato sia di hardware che analisi dati, ricoprendo diversi ruoli organizzativi e di servizio per la collaborazione. [/expand]
-[/expand] Ho contribuito alla ricerca e alla presentazione del primo evento adronico di B nel 2009-2010, per l’esattezza un evento di decadimento B → DX, con la presentazione pubblica dei primi picchi di massa invariante dell’esperimento mai prodotti.
+[expand] Ho contribuito alla ricerca e alla presentazione del primo evento adronico di B nel 2009-2010, per l’esattezza un evento di decadimento B → DX, con la presentazione pubblica dei primi picchi di massa invariante dell’esperimento mai prodotti.
 Sono stato inoltre firmatario e partecipante di tutte le attività di design e costruzione della prima fase di upgrade (Phase-I). Ho avuto ruoli di responsabilità e ruoli operativi nella costruzione dell’Upstream Tracker di LHCb, in cui sono tuttora direttamente coinvolto.
-All’interno della collaborazione LHCb, ricopro ed ho ricoperto in passato diversi ruoli di coordinamento.[/expand]
+All’interno della collaborazione LHCb, ricopro ed ho ricoperto in passato diversi ruoli di coordinamento.[expand]
 Sono autore di almeno 20 note interne di analisi, come contact author o proponente, ed altrettante pubblicazioni su giornali peer-reviewed.
 Sono membro attivo di numerosi working group, e.g. B2OC (decadimenti open-charm), BandQ (spettroscopia e affini) ed EW (che comprende le mie attività in produzione esclusiva).
 Sono revisore interno di numerose attività di analisi, nonché referee per giornali internazionali. Coordino diverse attività di ricerca nell’ambito della ricerca di stati esotici e convenzionali, con proposta di nuovi canali.

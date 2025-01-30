@@ -12,15 +12,14 @@ During my PhD, I joined the LHCb experiment at CERN, becoming a member of the co
 
 
 
-### Data Analysis - Spectroscopy of new states
+#### Data Analysis - Spectroscopy of new states
 <details>
 <summary>Click to expand</summary>
-In recent years, I have proposed several analyses aimed at the search for new conventional and exotic states. My primary focus has been on the study of heavy baryons, a field that was largely unexplored experimentally in the pre-LHC era, where LHCb has since established itself as a leader. My work has led to the discovery of numerous new states and the emergence of an active line of investigation within the scientific community. These analyses were carried out either independently or within small teams—an unusual approach within a large collaboration. Additionally, my research has fostered a strong synergy between the theoretical and experimental communities.
-A summary of the new resonances observed at the LHC is available here https://www.nikhef.nl/~pkoppenb/particles.html. My work has directly contributed to the experimental observation of over 12 new states (out of the more than 70 discovered in the past decade at LHC).
+In recent years, I have proposed several analyses aimed at the search for new conventional and exotic states. My primary focus has been on the study of heavy baryons, a field that was largely unexplored experimentally in the pre-LHC era, where LHCb has since established itself as a leader. My work has led to the discovery of numerous new states and the emergence of an active line of investigation within the scientific community. These analyses were carried out either independently or within small teams—an unusual approach within a large collaboration. Additionally, my research has fostered a strong synergy between the theoretical and experimental communities. A summary of the new resonances observed at the LHC is available [[here]](https://www.nikhef.nl/~pkoppenb/particles.html). My work has directly contributed to the experimental observation of over 12 new states (out of the more than 70 discovered in the past decade at LHC).
 </details>
 
 
-### Data Analysis - Central Exclusive Production (CEP)
+#### Data Analysis - Central Exclusive Production (CEP)
 <details>
 <summary>Click to expand</summary>
 Sono stato convener del gruppo di Central Exclusive Production a LHCb. Tale fisica non era inizialmente ritenuta fattibile presso il nostro esperimento ed è stata possibile con l’installazione di un nuovo detector in avanti (Herschel).

@@ -6,7 +6,7 @@ nav_order: 3
 # Research Interests
 
 
-## 1. Introduction
+### 1. Introduction
 <details>
 <summary>Click to expand</summary>
 La mia carriera scientifica è iniziata nell’esperimento BaBar (SLAC) con la misura di polarizzazione di decadimenti in mesoni assiali. Tale lavoro, primo nel suo genere, è stato pubblicato in PRD.

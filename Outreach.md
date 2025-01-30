@@ -51,7 +51,7 @@ Partecipo all’organizzazione dello stand INFN per la Notte dei Ricercatori che
 - Location: Royal Society, London.
 - Audience: 10k+ persons
  
-Stand alla convention “Summer Science Exhibition”, organizzata dalla Royal Society. Ho realizzato diversi esperimenti sulla violazione CP e ho rappresentato il gruppo di LHCb Oxford. Lo stand ha poi visitato altre fiere e dipartimenti UK negli anni successivi.
+"Stand alla convention “Summer Science Exhibition”, organizzata dalla Royal Society. Ho realizzato diversi esperimenti sulla violazione CP e ho rappresentato il gruppo di LHCb Oxford. Lo stand ha poi visitato altre fiere e dipartimenti UK negli anni successivi."
 
 
 

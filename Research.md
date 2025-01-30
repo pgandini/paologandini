@@ -13,6 +13,14 @@ and here
 ...
 [/expand]
 
+Ciao.
+<details>
+	<summary>Click to expand</summary>
+	Long content here
+	and here
+</details>
+
+
 
 [expand] La mia carriera scientifica è iniziata nell’esperimento BaBar (SLAC) con la misura di polarizzazione di decadimenti in mesoni assiali. Tale lavoro, primo nel suo genere, è stato pubblicato in PRD.
 Durante il dottorato, ho iniziato a lavorare nell’esperimento LHCb (CERN). Sono membro della collaborazione  LHCb dal 2009 ed ho firmato tutti i suoi articoli, documenti tecnici e report. Mi sono occupato sia di hardware che analisi dati, ricoprendo diversi ruoli organizzativi e di servizio per la collaborazione. [/expand]

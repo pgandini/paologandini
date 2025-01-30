@@ -1,8 +1,55 @@
 ---
 title: Outreach
 layout: page
-nav_order: 4
+nav_order: 5
 ---
 # Outreach (Terza missione)
 Here are my outreach activities.
+
+Progetto Lab2go
+(https://web.infn.it/lab2go/)
+Date: Gennaio 2022 - presente
+Soggetti coinvolti: Scuole superiori
+Ruolo: Referente/Organizzatore INFN per la sezione di Milano. 
+Il progetto PCTO – LAB2GO è finalizzato alla valorizzazione dei laboratori e dei musei delle scuole secondarie superiori, ed è nato grazie all’Istituto Nazionale di Fisica Nucleare (INFN) e alla Facoltà di Scienze MM FF NN di Sapienza Università di Roma. E’ stato poi esteso in tutta Italia. A Milano, abbiamo attività in cinque scuole superiori della città  (e.g Liceo Donatelli-Pascal, Piero Bottoni, etc).
+Il progetto è rivolto alle scuole secondarie di secondo grado (IISS) sul territorio nazionale.
+Il progetto ha i seguenti obiettivi:  
+Valorizzazione del patrimonio scolastico esistente negli istituti di istruzione secondaria superiore 
+Promozione della didattica laboratoriale nelle scuole e condivisione di buone pratiche didattiche attraverso la realizzazione di materiali ed eventi aperti alla comunità scolastica e/o ad un pubblico più ampio
+Formazione dei docenti alla pratica laboratoriale.
+Le attività si svolgono presso le strutture in collaborazione con i docenti delle classi e si svolgono su diversi pomeriggi di attività in laboratorio durante tutto l’anno scolastico. L’esperienza può essere poi usata come input per la preparazione del materiale da portare all’esame di stato dell’ultimo anno.
+
+
+2. Progetto Nuvoletta
+(https://nuvoletta.mi.infn.it/)
+Dates: Gennaio 2022 - presente
+Soggetti coinvolti: Studenti scuole superiori
+Il progetto prevede il design e la costruzione di una cloud chamber portatile per attività di outreach nella sezione e nei licei visitati dai vari progetti esistenti. Lo sviluppo prevede la realizzazione di uno strumento finito, di costo relativamente limitato, che possa essere in principio acquistato da scuole e istituzione per le loro attività interne
+
+
+
+
+1. Notte Europea dei Ricercatori
+Date: 2021 - presente. Una serata/anno in Settembre.
+(https://collisioni.infn.it/evento/linfn-alla-notte-europea-delle-ricercatrici-e-dei-ricercatori-2023/)
+Partecipo all’organizzazione dello stand INFN per la Notte dei Ricercatori che a Milano si svolge presso il Museo della Scienza e della Tecnica. In particolare, sono guida della mostra “Extreme” sulla fisica delle particelle.
+
+
+
+2. Scientific Fair: Antimatter Matters (Summer Science Exhibition 2016)
+Date: 4 Luglio - 10 Luglio 2016
+Location: Royal Society, London. (http://antimatter-matters.org/)
+Audience: piu di 10k persone nel corso dell’evento.
+Stand alla convention “Summer Science Exhibition”, organizzata dalla Royal Society. Ho realizzato diversi esperimenti sulla violazione CP e ho rappresentato il gruppo di LHCb Oxford. Lo stand ha poi visitato altre fiere e dipartimenti UK negli anni successivi.
+
+
+
+3. CERN and LHCb official guide
+Dal 2013 - presente.
+Official guide at CERN and the LHCb experiment
+
+
+
+
+
 

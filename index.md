@@ -12,3 +12,4 @@ I am active on data analysis and my main interests are heavy baryon spectroscopy
 I have also activities on hardware development and R&D of new silicon detectors.
 Proponent of the new ALADDIN experiment at CERN.
 
+OrcidID: https://orcid.org/0000-0001-7267-6008

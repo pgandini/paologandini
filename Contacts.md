@@ -8,8 +8,8 @@ If you wish to contact me, here are my details:
 <dl>
 <dt>Address</dt>
 <dd>
-    Paolo Gandini
-    INFN, via Celoria 16
+    Paolo Gandini,
+    INFN, via Celoria 16,
     20133, Milano, Italy
 </dd>  
 <dt>Personal</dt>

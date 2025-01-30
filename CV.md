@@ -1,6 +1,6 @@
 ---
 title: Vitae
-layout: home
+layout: page
 nav_order: 2
 ---
 # Curriculum Vitae

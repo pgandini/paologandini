@@ -9,6 +9,15 @@ I am regular reviewer for international peer-reviewed journals (e.g APS for Phys
 This list includes only a selection of publications and public documents in which I have been involved as a major/contact contributor.
 My complete list of publications can be found on [[INSPIRE]](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20gandini&ui-citation-summary=true).
 
+| Modifier  | Screen size                          |
+|:----------|:-------------------------------------|
+| (none)    | All screens until the next modifier  |
+| `xs`      | 320px (20rem) and up                 |
+| `sm`      | 500px (31.25rem) and up              |
+| `md`      | 740px (46.25rem) and up              |
+| `lg`      | 1120px (70rem) and up                |
+| `xl`      | 1400px (87.5rem) and up              |
+
 |:-------------|:-----------------------------------------------------------|
 2024	         | "The ALADDIN proto-collaboration: Neri, N. and others.
                | Advancements in techniques for measuring dipole moments of short-lived particles at the LHC

@@ -1,6 +1,6 @@
 ---
 title: Outreach
-layout: home
+layout: page
 nav_order: 4
 ---
 # Outreach (Terza missione)

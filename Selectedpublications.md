@@ -10,8 +10,12 @@ This list includes only a selection of publications and public documents in whic
 
 My complete list of publications can be found on [[INSPIRE]](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20gandini&ui-citation-summary=true).
 
-|:----------|:-------------------------------------|
-| 2024    | All screens until the next modifier  |
+| Class          | What it does         |
+|:---------------|:---------------------|
+| `.text-left`   | `text-align: left`   |
+| `.text-right`  | `text-align: right`  |
+| `.text-center` | `text-align: center` |
+
 
 |:-------------|:-----------------------------------------------------------|
 2024	         | The ALADDIN proto-collaboration: Neri, N. and others.

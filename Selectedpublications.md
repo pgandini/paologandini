@@ -12,7 +12,7 @@ My complete list of publications can be found on [[INSPIRE]](https://inspirehep.
 
 | Class          | What it does         |
 |:---------------|:---------------------|
-| 2024           | `text-align: left`   |
+| 2024         | `text-align: left`   |
 | `.text-right`  | `text-align: right`  |
 | `.text-center` | `text-align: center` |
 

@@ -4,34 +4,25 @@ layout: page
 nav_order: 3
 ---
 # Research Interests
+My scientific career began in the BaBar experiment at SLAC, where I measured the polarization of decays in axial mesons. 
+During my PhD, I joined the LHCb experiment at CERN, becoming a member of the collaboration in 2009. Since then, I have co-authored all of its papers, technical documents, and reports. My contributions span both hardware, software, simulation and data analysis. I have also taken on several organizational and service roles within the collaboration.
+
+I played a key role in the identification and presentation of the first hadronic B event at LHCb in 2009/2010, a B → DX decay event, publicly showcasing the first-ever invariant mass peaks produced by the experiment.
+
+I have also been a signatory and active participant in all design and construction activities related to the first phase of the LHCb upgrade (Phase-I). I have held both leadership and operational roles in the construction of the LHCb Upstream Tracker, where I remain actively involved.
+
+Within the LHCb collaboration, I have held and continue to hold several coordination roles. I am the author of at least 20 internal analysis notes, either as a contact author or proposer, as well as numerous peer-reviewed journal publications. I coordinate various research initiatives focused on the search for both exotic and conventional states, proposing new decay channels for investigation.
 
 
-### 1. Introduction
+
+### Data Analysis - Spectroscopy of new states
 <details>
 <summary>Click to expand</summary>
-La mia carriera scientifica è iniziata nell’esperimento BaBar (SLAC) con la misura di polarizzazione di decadimenti in mesoni assiali. Tale lavoro, primo nel suo genere, è stato pubblicato in PRD.
-Durante il dottorato, ho iniziato a lavorare nell’esperimento LHCb (CERN). Sono membro della collaborazione  LHCb dal 2009 ed ho firmato tutti i suoi articoli, documenti tecnici e report. Mi sono occupato sia di hardware che analisi dati, ricoprendo diversi ruoli organizzativi e di servizio per la collaborazione.
-Ho contribuito alla ricerca e alla presentazione del primo evento adronico di B nel 2009-2010, per l’esattezza un evento di decadimento B → DX, con la presentazione pubblica dei primi picchi di massa invariante dell’esperimento mai prodotti.
-Sono stato inoltre firmatario e partecipante di tutte le attività di design e costruzione della prima fase di upgrade (Phase-I). Ho avuto ruoli di responsabilità e ruoli operativi nella costruzione dell’Upstream Tracker di LHCb, in cui sono tuttora direttamente coinvolto.
-All’interno della collaborazione LHCb, ricopro ed ho ricoperto in passato diversi ruoli di coordinamento. [/expand]
-Sono autore di almeno 20 note interne di analisi, come contact author o proponente, ed altrettante pubblicazioni su giornali peer-reviewed.
-Sono membro attivo di numerosi working group, e.g. B2OC (decadimenti open-charm), BandQ (spettroscopia e affini) ed EW (che comprende le mie attività in produzione esclusiva).
-Sono revisore interno di numerose attività di analisi, nonché referee per giornali internazionali. Coordino diverse attività di ricerca nell’ambito della ricerca di stati esotici e convenzionali, con proposta di nuovi canali.
+
 </details>
 
 
-## 2. Analisi Dati - Spettroscopia e ricerca di nuovi stati
-<details>
-<summary>Click to expand</summary>
-Negli ultimi anni ho proposto diverse analisi sulla ricerca di nuovi stati convenzionali ed esotici. Il mio interesse si è concentrato in particolare nella ricerca di barioni pesanti, settore molto poco conosciuto a livello sperimentale nell’era pre-LHC, in cui LHCb si è dimostrato essere leader. 
-Il mio lavoro ha portato alla scoperta di numerosi nuovi stati e alla nascita di un vero e proprio filone di indagine tuttora attivo all’interno della comunità. Tali analisi sono state realizzate in autonomia o in team di piccole dimensioni, situazione inusuale per una grande collaborazione. Si è inoltre creata una fitta collaborazione tra la comunità teorica e quella sperimentale.
-Assieme allo studio di stati adronici, ho proposto lo studio di canali contenenti muoni che ha portato notevole interesse sia all’interno di LHCb che in altri esperimenti (BESIII). Sono stato anche autore di numerosi contributi sul CERN Courier riguardo a tali attività. I dettagli sulle analisi proposte sono inclusi nella lista pubblicazioni.
-Le nuove risonanze osservate ad LHC sono documentate sinteticamente in: https://www.nikhef.nl/~pkoppenb/particles.html. Il mio lavoro ha contribuito all’osservazione sperimentare di oltre 12 nuovi stati su gli oltre 70 scoperti negli ultimi 10 anni.
-Sono inoltre proponente e membro di nuove task-force di analisi, per la ricerca di stati doppio-pesanti ed esotici. Tali studi di fattibilità si concretizzeranno nelle analisi sui dati raccolti durante Run3-4, data l’alta luminosità integrata richiesta per tali ricerche.
-</details>
-
-
-## 3. Analisi Dati - Central Exclusive Production (CEP)
+### Data Analysis - Central Exclusive Production (CEP)
 <details>
 <summary>Click to expand</summary>
 Sono stato convener del gruppo di Central Exclusive Production a LHCb. Tale fisica non era inizialmente ritenuta fattibile presso il nostro esperimento ed è stata possibile con l’installazione di un nuovo detector in avanti (Herschel).

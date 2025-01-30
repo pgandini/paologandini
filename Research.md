@@ -6,7 +6,14 @@ nav_order: 3
 # Research Interests
 
 1. Introduzione
-Ciao
+Ciao.
+[expand]
+Long content here
+and here
+...
+[/expand]
+
+
 [expand] La mia carriera scientifica è iniziata nell’esperimento BaBar (SLAC) con la misura di polarizzazione di decadimenti in mesoni assiali. Tale lavoro, primo nel suo genere, è stato pubblicato in PRD.
 Durante il dottorato, ho iniziato a lavorare nell’esperimento LHCb (CERN). Sono membro della collaborazione  LHCb dal 2009 ed ho firmato tutti i suoi articoli, documenti tecnici e report. Mi sono occupato sia di hardware che analisi dati, ricoprendo diversi ruoli organizzativi e di servizio per la collaborazione. [/expand]
 [expand] Ho contribuito alla ricerca e alla presentazione del primo evento adronico di B nel 2009-2010, per l’esattezza un evento di decadimento B → DX, con la presentazione pubblica dei primi picchi di massa invariante dell’esperimento mai prodotti.

@@ -11,28 +11,28 @@ During my PhD, I joined the LHCb experiment at CERN, becoming a member of the co
 - Within the LHCb collaboration, I have held and continue to hold several coordination roles. I am the author of at least 20 internal analysis notes, either as a contact author or proposer, as well as numerous peer-reviewed journal publications. I coordinate various research initiatives focused on the search for both exotic and conventional states, proposing new decay channels for investigation.
 
 
-#### Data Analysis - Spectroscopy of new states
+### Data Analysis - Spectroscopy of new states
 <details>
 <summary>Click to expand</summary>
 In recent years, I have proposed several analyses aimed at the search for new conventional and exotic states. My primary focus has been on the study of heavy baryons, a field that was largely unexplored experimentally in the pre-LHC era, where LHCb has since established itself as a leader. My work has led to the discovery of numerous new states and the emergence of an active line of investigation within the scientific community. These analyses were carried out either independently or within small teams—an unusual approach within a large collaboration. Additionally, my research has fostered a strong synergy between the theoretical and experimental communities. A summary of the new resonances observed at the LHC is available [[here]](https://www.nikhef.nl/~pkoppenb/particles.html). My work has directly contributed to the experimental observation of over 12 new states (out of the more than 70 discovered in the past decade at LHC).
 </details>
 
 
-#### Data Analysis - Central Exclusive Production (CEP)
+### Data Analysis - Central Exclusive Production (CEP)
 <details>
 <summary>Click to expand</summary>
 I served as a convener of the Central Exclusive Production (CEP) group at LHCb. Initially, this type of physics was not considered feasible within the LHCb experiment, but it became possible with the installation of a new forward detector, Herschel. The Herschel detector consisted of scintillator planes positioned in the LHC tunnel, approximately 200 meters from the interaction region. Its primary purpose was to extend the experiment’s angular coverage and provide veto capabilities for background activity. My contributions spanned both data analysis, where I was a key proponent of the first publications on this topic, and experimental aspects, including installation, maintenance, calibration, and repair. In particular, I was responsible for the calibration and operation of the detector and designed the hardware trigger that enabled the collection of CEP events. Additionally, I oversaw its integration into LHCb’s existing software and hardware framework. This work was particularly compelling due to the complementarity between these low-occupancy detector activities and the broader LHCb physics program. Given the novelty of this initiative, every aspect had to be developed from scratch, including coordination with the collaboration’s management and the operational teams at the experimental site.
 </details>
 
 
-#### Data Analysis - CP violation and CKM matrix
+### Data Analysis - CP violation and CKM matrix
 <details>
 <summary>Click to expand</summary>
 I was the lead author of the first analysis on tree-level b→c transitions. This was the primary focus of my PhD research and led to the first experimental observation of the suppressed B→DK decay channel using the ADS/GLW method. This final state is considered one of the golden channels for measuring the CKM matrix angle γ, which is one of the key physics goals for which the LHCb experiment was originally proposed. The tools I developed are still in use within LHCb, while the Probability Density Functions (PDFs) I designed to model partially reconstructed backgrounds—where a particle is lost in the decay chain—have been applied to asymmetry measurements in other channels involving neutral particles. Additionally, I was involved in the development of the frequentist fitter to the CKM γ angle that is still used by the collaboration today.
 </details>
 
 
-#### 5. Sviluppo, Costruzione, Caratterizzazione dei Circuiti di Front-end dell’Upstream Tracker
+### 5. Sviluppo, Costruzione, Caratterizzazione dei Circuiti di Front-end dell’Upstream Tracker
 <details>
 <summary>Click to expand</summary>
 L’Upstream Tracker (UT) consiste in un rivelatore a strip di silicio situato prima del dipolo magnetico di LHCb. Il detector è composto da 4 piani di circa 1m2 ciascuno, organizzati in “stave” verticali di sensori, con una superficie approssimativamente di 10x10cm di silicio ciascuno, instrumentati con strip ad alta densità.

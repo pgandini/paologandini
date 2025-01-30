@@ -10,6 +10,7 @@ This list includes only a selection of publications and public documents in whic
 
 My complete list of publications can be found on [[INSPIRE]](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20gandini&ui-citation-summary=true).
 
+| Year | Publication | 
 |:---------|:---------------------|
 | 2024     |The ALADDIN proto-collaboration: Neri, N. and others. Advancements in techniques for measuring dipole moments of short-lived particles at the LHC. NIMA 169875 (2024) DOI: https://doi.org/10.1016/j.nima.2024.169875 |
 | 2024	   |The ALADDIN proto-collaboration. ALADDIN: An Lhc Apparatus for Direct Dipole moments INvestigation. Letter Of Intent. CERN-LHCC-2024-01, LHCC-I-041. 10.17181/CERN.2G4V.0YAO |

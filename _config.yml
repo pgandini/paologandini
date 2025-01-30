@@ -3,7 +3,7 @@ subtitle: Primo Ricercatore INFN
 description: Personal site of Paolo Gandini - INFN Milano
 theme: just-the-docs
 url: https://pgandini.github.io/paologandini/
-logo: "/assets/images/PG_exended.png"
+logo: "/assets/images/PG_extended.png"
 favicon_ico: "/assets/images/favicon.ico"
 color_scheme: gandini
 
@@ -18,7 +18,7 @@ aux_links:
     - "https://lhcb-outreach.web.cern.ch/"
     
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 ######################################################
 # Social links
 social: true

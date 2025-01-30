@@ -26,7 +26,7 @@ layout: table_wrappers
           {% else %}
             {{ content }}
           {% endif %}
-
+          
           {% if page.has_toc != false %}
             {% include components/children_nav.html %}
           {% endif %}
@@ -35,11 +35,11 @@ layout: table_wrappers
       </div>
     </div>
     {% if site.search_enabled != false %}
-      {% include components/search_footer.html %}
+       {% include components/search_footer.html %}
     {% endif %}
   </div>
-  {% if site.mermaid %}
-    {% include components/mermaid.html %}
+{% if site.mermaid %}
+  {% include components/mermaid.html %}
   {% endif %}
 {% if site.social %}
   {% include follow-buttons.html %}

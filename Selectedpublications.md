@@ -11,7 +11,7 @@ This list includes only a selection of publications and public documents in whic
 My complete list of publications can be found on [[INSPIRE]](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20gandini&ui-citation-summary=true).
 
 |:----------|:------------------------|
-| 2024      | The ALADDIN proto-collaboration: Neri, N. and others.  |
+| 2024      |                         |
 
 
 |:-------------|:-----------------------------------------------------------|

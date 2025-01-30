@@ -4,21 +4,19 @@ layout: page
 nav_order: 3
 ---
 # Research Interests
-My scientific career began in the BaBar experiment at SLAC, where I measured the polarization of decays in axial mesons. 
+- My scientific career began in the BaBar experiment at SLAC, where I measured the polarization of decays in axial mesons. 
 During my PhD, I joined the LHCb experiment at CERN, becoming a member of the collaboration in 2009. Since then, I have co-authored all of its papers, technical documents, and reports. My contributions span both hardware, software, simulation and data analysis. I have also taken on several organizational and service roles within the collaboration.
-
-I played a key role in the identification and presentation of the first hadronic B event at LHCb in 2009/2010, a B → DX decay event, publicly showcasing the first-ever invariant mass peaks produced by the experiment.
-
-I have also been a signatory and active participant in all design and construction activities related to the first phase of the LHCb upgrade (Phase-I). I have held both leadership and operational roles in the construction of the LHCb Upstream Tracker, where I remain actively involved.
-
-Within the LHCb collaboration, I have held and continue to hold several coordination roles. I am the author of at least 20 internal analysis notes, either as a contact author or proposer, as well as numerous peer-reviewed journal publications. I coordinate various research initiatives focused on the search for both exotic and conventional states, proposing new decay channels for investigation.
+- I played a key role in the identification and presentation of the first hadronic B event at LHCb in 2009/2010, a B → DX decay event, publicly showcasing the first-ever invariant mass peaks produced by the experiment.
+- I have also been a signatory and active participant in all design and construction activities related to the first phase of the LHCb upgrade (Phase-I). I have held both leadership and operational roles in the construction of the LHCb Upstream Tracker, where I remain actively involved.
+- Within the LHCb collaboration, I have held and continue to hold several coordination roles. I am the author of at least 20 internal analysis notes, either as a contact author or proposer, as well as numerous peer-reviewed journal publications. I coordinate various research initiatives focused on the search for both exotic and conventional states, proposing new decay channels for investigation.
 
 
 
 ### Data Analysis - Spectroscopy of new states
 <details>
 <summary>Click to expand</summary>
-
+In recent years, I have proposed several analyses aimed at the search for new conventional and exotic states. My primary focus has been on the study of heavy baryons, a field that was largely unexplored experimentally in the pre-LHC era, where LHCb has since established itself as a leader. My work has led to the discovery of numerous new states and the emergence of an active line of investigation within the scientific community. These analyses were carried out either independently or within small teams—an unusual approach within a large collaboration. Additionally, my research has fostered a strong synergy between the theoretical and experimental communities.
+A summary of the new resonances observed at the LHC is available here https://www.nikhef.nl/~pkoppenb/particles.html. My work has directly contributed to the experimental observation of over 12 new states (out of the more than 70 discovered in the past decade at LHC).
 </details>
 
 

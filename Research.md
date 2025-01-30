@@ -11,7 +11,6 @@ During my PhD, I joined the LHCb experiment at CERN, becoming a member of the co
 - Within the LHCb collaboration, I have held and continue to hold several coordination roles. I am the author of at least 20 internal analysis notes, either as a contact author or proposer, as well as numerous peer-reviewed journal publications. I coordinate various research initiatives focused on the search for both exotic and conventional states, proposing new decay channels for investigation.
 
 
-
 #### Data Analysis - Spectroscopy of new states
 <details>
 <summary>Click to expand</summary>
@@ -22,23 +21,18 @@ In recent years, I have proposed several analyses aimed at the search for new co
 #### Data Analysis - Central Exclusive Production (CEP)
 <details>
 <summary>Click to expand</summary>
-Sono stato convener del gruppo di Central Exclusive Production a LHCb. Tale fisica non era inizialmente ritenuta fattibile presso il nostro esperimento ed è stata possibile con l’installazione di un nuovo detector in avanti (Herschel).
-Il detector Herschel consiste in piani di scintillatori situati nel tunnel di LHC a circa 200m dalla regione di interazione, per aumentare la copertura angolare dell’esperimento e fornire veto di attività.
-Mi sono occupato sia di attività di analisi, come proponente delle prime pubblicazioni su questo argomento, sia dell’aspetto sperimentale (installazione, mantenimento, calibrazione, riparazione). In particolare, sono stato responsabile della calibrazione e del funzionamento del detector ed ho ideato il trigger hardware per permettere la raccolta di tali eventi. Infine, mi sono occupato della sua integrazione nel software/hardware esistente di LHCb. 
-Questa attività è stata particolarmente interessante vista la complementarità di queste attività a bassa occupanza del detector con il resto della fisica di LHCb ed ha richiesto lo sviluppo di ogni aspetto ab-initio (ad esempio con la concertazione con il management della collaborazione e i responsabili delle operazioni al pit).
+I served as a convener of the Central Exclusive Production (CEP) group at LHCb. Initially, this type of physics was not considered feasible within the LHCb experiment, but it became possible with the installation of a new forward detector, Herschel. The Herschel detector consisted of scintillator planes positioned in the LHC tunnel, approximately 200 meters from the interaction region. Its primary purpose was to extend the experiment’s angular coverage and provide veto capabilities for background activity. My contributions spanned both data analysis, where I was a key proponent of the first publications on this topic, and experimental aspects, including installation, maintenance, calibration, and repair. In particular, I was responsible for the calibration and operation of the detector and designed the hardware trigger that enabled the collection of CEP events. Additionally, I oversaw its integration into LHCb’s existing software and hardware framework. This work was particularly compelling due to the complementarity between these low-occupancy detector activities and the broader LHCb physics program. Given the novelty of this initiative, every aspect had to be developed from scratch, including coordination with the collaboration’s management and the operational teams at the experimental site.
 </details>
 
 
-## 4. Analisi Dati - Violazione CP e matrice CKM
+#### Data Analysis - CP violation and CKM matrix
 <details>
 <summary>Click to expand</summary>
-Sono stato autore della prima analisi riguardante transizioni b → c ad albero. Questo è stato il focus principale della mia attività di dottorato ed ha portato alla prima osservazione sperimentale del canale soppresso B → DK (con metodo ADS/GLW). Tale stato finale è considerato uno dei golden channel per la misura dell’angolo γ della matrice CKM, che costituisce uno degli argomenti principali per cui è stato proposto l’esperimento LHCb. La prima misura, pubblicata nella sua prima versione nel 2012 con una luminosità integrata di soli 1fb-1, è stata poi raffinata ed espansa per includere più canali e notevoli miglioramenti nella selezione dei canali rari.
-I tool sviluppati sono tuttora in uso in LHCb, mentre le PDF (Probability Density Function) ideate per descrivere i fondi parzialmente ricostruiti (dove una particella è persa nella catena di decadimento) sono state utilizzate per effettuare misure di asimmetrie in ulteriori canali contenenti particelle neutre (e.g π0 / γ).
-Queste misure hanno infine portato all’estrazione dell’angolo γ della matrice CKM, considerato uno dei key goal per cui LHCb è stato inizialmente ideato. Sono stato coinvolto nello sviluppo del fitter frequentista tuttora usato dalla collaborazione.
+I was the lead author of the first analysis on tree-level b→c transitions. This was the primary focus of my PhD research and led to the first experimental observation of the suppressed B→DK decay channel using the ADS/GLW method. This final state is considered one of the golden channels for measuring the CKM matrix angle γ, which is one of the key physics goals for which the LHCb experiment was originally proposed. The tools I developed are still in use within LHCb, while the Probability Density Functions (PDFs) I designed to model partially reconstructed backgrounds—where a particle is lost in the decay chain—have been applied to asymmetry measurements in other channels involving neutral particles. Additionally, I was involved in the development of the frequentist fitter to the CKM γ angle that is still used by the collaboration today.
 </details>
 
 
-## 5. Sviluppo, Costruzione, Caratterizzazione dei Circuiti di Front-end dell’Upstream Tracker
+#### 5. Sviluppo, Costruzione, Caratterizzazione dei Circuiti di Front-end dell’Upstream Tracker
 <details>
 <summary>Click to expand</summary>
 L’Upstream Tracker (UT) consiste in un rivelatore a strip di silicio situato prima del dipolo magnetico di LHCb. Il detector è composto da 4 piani di circa 1m2 ciascuno, organizzati in “stave” verticali di sensori, con una superficie approssimativamente di 10x10cm di silicio ciascuno, instrumentati con strip ad alta densità.
@@ -60,7 +54,7 @@ La costruzione e consegna dei circuiti è stata ultimata completamente secondo l
 </details>
 
 
-## 6. Technical Design Report (TDR) e Simulazione
+#### 6. Technical Design Report (TDR) e Simulazione
 <details>
 <summary>Click to expand</summary>
 Ho partecipato alla scrittura del Technical Design Report (TDR) dell’Upstream Tracker per l’upgrade del tracciatore di LHCb.
@@ -69,7 +63,7 @@ Accanto a tale attività di simulazione, ho coordinato il testing dei primi prot
 </details>
 
 
-## 7. Online Monitoring dell’ Upstream Tracker (LHCb upgrade)
+#### 7. Online Monitoring dell’ Upstream Tracker (LHCb upgrade)
 <details>
 <summary>Click to expand</summary>
 L’UT è stato l’ultimo subdetector ad essere installato durante il Run3. Attualmente in fase di commissioning,  esso prevede un intenso periodo di calibrazione e allineamento al resto del detector.
@@ -78,7 +72,7 @@ Sono responsabile della realizzazione di tutti i tool necessari per monitorare i
 </details>
 
 
-## 8. Tracking 4D hardware: Progetto Timespot e relativi sviluppi
+#### 8. Tracking 4D hardware: Progetto Timespot e relativi sviluppi
 <details>
 <summary>Click to expand</summary>
 Per espandere le mie competenze in chiave di sviluppo di nuove tecnologie utili per lo sviluppo di esperimenti futuri, ho fatto parte del progetto Timespot (https://web.infn.it/timespot/), call di gruppo 5 finanziata dall’ INFN (1M euro totali). 
@@ -87,7 +81,7 @@ Con l’aiuto di un postdoc e un ingegnere, si è realizzato un dimostratore per
 </details>
 
 
-## 9. Progetto EDIPO: Experiment for DIPOle moments of short-lived heavy fermions at LHC
+#### 9. Progetto EDIPO: Experiment for DIPOle moments of short-lived heavy fermions at LHC
 <details>
 <summary>Click to expand</summary>
 Il progetto EDIPO si inserisce nella ricerca di nuove possibilità per la realizzazioni di nuovi esperimenti sull’acceleratore LHC (generalmente di dimensioni ridotte se comparati ai General Purpose Detector). Il progetto EDIPO prevede la realizzazione di un dimostratore per un nuovo esperimento a targhetta fissa ad LHC. L’idea è di effettuare un test proof-of-principle da testare su fascio al SPS.

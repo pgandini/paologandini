@@ -1,6 +1,6 @@
 ---
 title: Contacts
-layout: home
+layout: page
 nav_order: 5
 ---
 # Contact me

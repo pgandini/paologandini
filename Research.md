@@ -13,6 +13,8 @@ During my PhD, I joined the LHCb experiment at CERN, becoming a member of the co
 
 - I am a member of the LHCb Collaboration at CERN since 2009.
 - I am a founding member of the ALADDIN collaboration (established in 2024).
+- Member of the Doctoral Council of the Physics Department (UNIMI) From academic year 2021 to present.
+
 
 ### Data Analysis - Spectroscopy of new states
 <details>

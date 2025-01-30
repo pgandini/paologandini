@@ -12,7 +12,7 @@ My complete list of publications can be found on [[INSPIRE]](https://inspirehep.
 
 | Class    | What it does         |
 |:---------|:---------------------|
-| 2024     | `text-align: left`   |
+| 2024     | The ALADDIN proto-collaboration: Neri, N. and others.   |
 | `.text-right`  | `text-align: right`  |
 | `.text-center` | `text-align: center` |
 

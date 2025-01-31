@@ -7,9 +7,8 @@ nav_order: 5
 Here are my outreach activities.
 
 ---
-
-## 1. [Lab2go](https://web.infn.it/lab2go/)
 <img src="assets/images/lab2go.png" alt="lab2go" style="width:150px; border:0;">
+## 1. [Lab2go](https://web.infn.it/lab2go/)
 > Dates: from 2022 - present. Target: Upper secondary schools. Role: Representative for INFN Milano.
 
 The PCTO – LAB2GO project, founded by INFN and Sapienza University in Rome, aims to enhance the value of existing local laboratories and museums in secondary schools. 
@@ -23,13 +22,11 @@ The project targets upper secondary schools nationwide with the following object
 The activities take place within the school facilities in collaboration with class teachers and are carried out over multiple afternoon lab sessions throughout the year. This lab work can then serve as input for preparing materials for the final-year state exam.
 </details>
 
-
+---
 
 
 ## 2. [Progetto Nuvoletta](https://nuvoletta.mi.infn.it/)
-
-> Dates: from 2022 - present.
-> Target: General audience
+> Dates: from 2022 - present. Target: General audience
 
 The project involves the design and construction of a portable cloud chamber for outreach activities. The goal is to develop a fully functional, cost-effective instrument that can potentially be acquired by schools and institutions for their educational activities.
 

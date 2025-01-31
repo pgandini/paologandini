@@ -10,5 +10,5 @@ If you wish to contact me, here are my details:
 | ----:    | :---- | 
 | Personal | paolo.gandini (AT) gmail.com      |
 | Work     | paolo.gandini (AT) mi.infn.com    |
-|<img src="assets/images/ig.png" alt="Instagram" width="50"/> | myinsta    |
-|<img src="assets/images/lk.png" alt="Linkedin" width="50"/>  | mylinkedin |
+|<img src="assets/icons/instagram.png" alt="Instagram" width="50"/> | myinsta    |
+|<img src="assets/icons/linkedin.png" alt="Linkedin" width="50"/>  | mylinkedin |

@@ -11,8 +11,9 @@ Here are my outreach activities.
 <img src="assets/images/lab2go.png" alt="lab2go" style="height:150px; border:0;">
 
 ## [Lab2go](https://web.infn.it/lab2go/)
-
-`Dates: from 2022 - present`  `Target: Upper secondary schools`  `Role: Representative for INFN Milano`
+- Dates: from 2022 - present
+- Target: Upper secondary schools
+- Role: Representative for INFN Milano
 
 The PCTO – LAB2GO project, founded by INFN and Sapienza University in Rome, aims to enhance the value of existing local laboratories and museums in secondary schools. 
 <details>
@@ -45,7 +46,7 @@ The project involves the design and construction of a portable cloud chamber for
 I am involved in the organization of the INFN stand for the **European Researchers’ Night**, which takes place in Milan at the Museum of Science and Technology (yearly). I also serve as a guide for the exhibition **Extreme** on particle physics.
 
 ---
-<img src="assets/images/antimattermatters.png" alt="lab2go" style="width:150px; border:0;">
+<img src="assets/images/antimattermatters.png" alt="lab2go" style="height:150px; border:0;">
 
 ## [Antimatter Matters (Summer Science Exhibition 2016)](http://antimatter-matters.org/)
 - Dates: 4th July - 10th july 2016

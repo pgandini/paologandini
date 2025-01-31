@@ -8,7 +8,7 @@ Here are my outreach activities.
 
 
 ---
-<img src="assets/images/lab2go.png" alt="lab2go" style="width:150px; border:0;">
+<img src="assets/images/lab2go.png" alt="lab2go" style="height:150px; border:0;">
 
 ## [Lab2go](https://web.infn.it/lab2go/)
 - Dates: from 2022 - present
@@ -27,7 +27,7 @@ The activities take place within the school facilities in collaboration with cla
 </details>
 
 ---
-<img src="assets/images/nuvoletta.png" alt="Nuvoletta" style="width:150px; border:0;">
+<img src="assets/images/nuvoletta.png" alt="Nuvoletta" style="height:150px; border:0;">
 
 ## [Progetto Nuvoletta](https://nuvoletta.mi.infn.it/)
 - Dates: from 2022 - present
@@ -36,7 +36,7 @@ The activities take place within the school facilities in collaboration with cla
 The project involves the design and construction of a portable cloud chamber for outreach activities. The goal is to develop a fully functional, cost-effective instrument that can potentially be acquired by schools and institutions for their educational activities.
 
 ---
-<img src="assets/images/europeannight.png" alt="Researchers Night" style="width:150px; border:0;">
+<img src="assets/images/europeannight.png" alt="Researchers Night" style="height:150px; border:0;">
 
 ## [European Researchers’ Night](https://collisioni.infn.it/evento/linfn-alla-notte-europea-delle-ricercatrici-e-dei-ricercatori-2023/)
 - Dates: from 2021 - present

@@ -6,7 +6,7 @@ nav_order: 5
 # Outreach (Terza missione)
 Here are my outreach activities.
 
-### 1. Lab2go (https://web.infn.it/lab2go/)
+### 1. Lab2go [site](https://web.infn.it/lab2go/)
 > Date: Gennaio 2022 - presente
 > Soggetti coinvolti: Scuole superiori
 > Ruolo: Referente/Organizzatore INFN per la sezione di Milano.

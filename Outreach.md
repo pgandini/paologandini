@@ -12,7 +12,11 @@ Here are my outreach activities.
 
 ## [Lab2go](https://web.infn.it/lab2go/)
 
-|<img src="assets/images/lab2go.png" alt="lab2go" style="height:150px; border:0;"> | Ciao |
+|<img src="assets/images/lab2go.png" alt="lab2go" style="height:150px; border:0;"> | 
+
+- Dates: from 2022 - present
+- Target: Upper secondary schools
+- Role: Representative for INFN Milano |
 | --- | --- |
 
 

@@ -6,7 +6,7 @@ nav_order: 5
 # Outreach (Terza missione)
 Here are my outreach activities.
 
---------------------------
+---
 
 ## 1. [Lab2go](https://web.infn.it/lab2go/)
 <img src="assets/images/lab2go.png" alt="lab2go" style="width:150px; border:0;">

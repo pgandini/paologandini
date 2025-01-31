@@ -7,7 +7,7 @@ nav_order: 5
 Here are my outreach activities.
 
 ### 1. [Lab2go](https://web.infn.it/lab2go/)
-
+<img src="assets/images/lab2go.png" alt="lab2go" style="width:100; border:0;">
 > Date: Gennaio 2022 - presente
 > Soggetti coinvolti: Scuole superiori
 > Ruolo: Referente/Organizzatore INFN per la sezione di Milano.

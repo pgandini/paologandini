@@ -8,7 +8,9 @@ Here are my outreach activities.
 
 ---
 <img src="assets/images/lab2go.png" alt="lab2go" style="width:150px; border:0;">
+
 ## 1. [Lab2go](https://web.infn.it/lab2go/)
+
 > Dates: from 2022 - present. Target: Upper secondary schools. Role: Representative for INFN Milano.
 
 The PCTO – LAB2GO project, founded by INFN and Sapienza University in Rome, aims to enhance the value of existing local laboratories and museums in secondary schools. 
@@ -23,19 +25,26 @@ The activities take place within the school facilities in collaboration with cla
 </details>
 
 ---
-
+<img src="assets/images/lab2go.png" alt="lab2go" style="width:150px; border:0;">
 
 ## 2. [Progetto Nuvoletta](https://nuvoletta.mi.infn.it/)
+
 > Dates: from 2022 - present. Target: General audience
 
 The project involves the design and construction of a portable cloud chamber for outreach activities. The goal is to develop a fully functional, cost-effective instrument that can potentially be acquired by schools and institutions for their educational activities.
 
+---
+<img src="assets/images/lab2go.png" alt="lab2go" style="width:150px; border:0;">
+
+## 3. [European Researchers’ Night](https://collisioni.infn.it/evento/linfn-alla-notte-europea-delle-ricercatrici-e-dei-ricercatori-2023/)
+
+> Dates: from 2021 - present.
+
+I am involved in the organization of the INFN stand for the **European Researchers’ Night**, which takes place in Milan at the Museum of Science and Technology (yearly). I also serve as a guide for the exhibition **Extreme** on particle physics.
 
 
-1. Notte Europea dei Ricercatori
-Date: 2021 - presente. Una serata/anno in Settembre.
-(https://collisioni.infn.it/evento/linfn-alla-notte-europea-delle-ricercatrici-e-dei-ricercatori-2023/)
-Partecipo all’organizzazione dello stand INFN per la Notte dei Ricercatori che a Milano si svolge presso il Museo della Scienza e della Tecnica. In particolare, sono guida della mostra “Extreme” sulla fisica delle particelle.
+
+
 
 
 

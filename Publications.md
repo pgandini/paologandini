@@ -23,7 +23,7 @@ My complete list of publications can be found on [[INSPIRE]](https://inspirehep.
 
 
 
-| 2018 |LHCb Collaboration: Aaij,  R. and others. **Search for beautiful tetraquarks in the invariant-mass spectrum.** JHEP 10 (2018) 086  ePrint: 1806.09707 [DOI](https://10.1007/JHEP10(2018)086) |
+| 2018 |LHCb Collaboration: Aaij,  R. and others. **Search for beautiful tetraquarks in the $$\Upsilon(1S)\mu\mu$$ invariant-mass spectrum.** JHEP 10 (2018) 086  ePrint: 1806.09707 [DOI](https://10.1007/JHEP10(2018)086) |
 | 2018 |LHCb Collaboration: Aaij,  R. and others. **Central exclusive production of ￼ and ￼ mesons in pp collisions at ￼ TeV.** JHEP 10 (2018) 167 ePrint: 1806.04079 [DOI](https://10.1007/JHEP10(2018)167) |
 | 2018 | Akiba, K. and others. **The HeRSCheL detector: high-rapidity shower counters for LHCb.** JINST 13 (2018) 04, P04017 ePrint: 1801.04281 [DOI](https://10.1088/1748-0221/13/04/P04017) |
 | 2017 |LHCb Collaboration: Aaij,  R. and others. **Measurement of CP observables in ￼ and ￼ decays.** PLB 777 (2018) 16-30 ePrint: 1708.06370 [DOI](https://10.1016/j.physletb.2017.11.070)|

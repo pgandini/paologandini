@@ -15,7 +15,7 @@ Here are my outreach activities.
 |Date   | from 2022 - present|
 | :----:   | :---- | 
 |Target | Upper secondary schools|
-|Role   | Referent for INFN Milano|
+|Role   | Representative for INFN Milano|
 
 The PCTO – LAB2GO project, founded by INFN and Sapienza University in Rome, aims to enhance the value of existing local laboratories and museums in secondary schools. 
 <details>

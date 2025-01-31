@@ -6,17 +6,13 @@ nav_order: 5
 
 # Ettore Pancini prize
 - September 2019
-- Società Italiana di Fisica (SIF)
-  
+- Italian Physics Society (SIF)
+
 https://www.sif.it/attivita/altri_premi/bando_pancini/vincitori
 
-Premio riservato ad un giovane ricercatore laureato in Fisica di età non superiore ai 35 anni che abbia
-ottenuto un risultato significativo nell'ambito delle sue ricerche sperimentali in Fisica Nucleare o
-Subnucleare.
-Menzione ufficiale del premio: PAOLO GANDINI, laureato all’Università di Milano, dottorato
-all’Università di Oxford, attualmente ricercatore all’INFN, Sezione di Milano, per il contributo
-determinante alle attività dell’esperimento LHCb del CERN con particolare riferimento alle misure di
-spettroscopia e violazione di CP
+Awarded to a young researcher in physics under the age of 35 who has achieved a significant result in the field of experimental research in Nuclear or Subnuclear Physics.
+
+**Official award mention:** Paolo Gandini, graduate of the University of Milan, PhD at the University of Oxford, currently a researcher at INFN, Milan Section, for his decisive contribution to the activities of the LHCb experiment at CERN, with particular focus on spectroscopy measurements and CP violation.
 
 # Springer Thesis Prize
 - Marzo 2013

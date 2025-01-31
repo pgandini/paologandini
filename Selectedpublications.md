@@ -24,8 +24,6 @@ My complete list of publications can be found on [[INSPIRE]](https://inspirehep.
 | 2018 |LHCb Collaboration: Aaij,  R. and others. **Central exclusive production of ￼ and ￼ mesons in pp collisions at ￼ TeV.** JHEP 10 (2018) 167 ePrint: 1806.04079 [DOI](https://10.1007/JHEP10(2018)167) |
 | 2018 | Akiba, K. and others. **The HeRSCheL detector: high-rapidity shower counters for LHCb.** JINST 13 (2018) 04, P04017 ePrint: 1801.04281 [DOI](https://10.1088/1748-0221/13/04/P04017) |
 | 2017 |LHCb Collaboration: Aaij,  R. and others. **Measurement of CP observables in ￼ and ￼ decays.** PLB 777 (2018) 16-30 ePrint: 1708.06370 [DOI](https://10.1016/j.physletb.2017.11.070)|
-
-
 | 2017 |LHCb Collaboration: Aaij,  R. and others. ** and ￼  resonance parameters with the decays ￼.** PRL 119 (2017) 22, 221801 ePrint: 1709.04247 [DOI](https://10.1103/PhysRevLett.119.221801)|
 | 2016 |LHCb Collaboration: Aaij,  R. and others. **Measurement of the properties of the ￼ baryon.** JHEP 05 (2016) 161 ePrint: 1604.03896 [DOI](https://10.1007/JHEP05(2016)161)|
 | 2016 |LHCb Collaboration: Aaij,  R. and others. **Measurement of the CKM angle ￼ from a combination of LHCb analyses.** JHEP 12 (2016) 087 ePrint: 1611.03076 [DOI](https://10.1007/JHEP12(2016)087)|

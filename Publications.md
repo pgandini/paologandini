@@ -16,18 +16,19 @@ My complete list of publications can be found on [[INSPIRE]](https://inspirehep.
 | 2024 |The ALADDIN proto-collaboration. **ALADDIN: An Lhc Apparatus for Direct Dipole moments INvestigation. Letter Of Intent.** CERN-LHCC-2024-01, LHCC-I-041. [DOI](https://doi.org/10.17181/CERN.2G4V.0YAO) |
 | 2024 |LHCb Collaboration: Aaij,  R. and others. **The LHCb Upgrade I. Technical Design Report.** JINST 19 P05065. [DOI](https://doi.org/10.1088/1748-0221/19/05/P05065) |
 | 2022 |Beteta, C. and others. **The SALT, readout ASIC for silicon strip sensors of upstream tracker in the upgraded LHCb.** Sensors (2022) 22(1) 107.  [DOI](https://10.3390/s22010107) |
-| 2020 |LHCb Collaboration: Aaij,  R. and others. **Measurement of CP observables in $$B^\pm \to D^{(*)} h^\pm$$ decays using two-body D final states.** JHEP 04 (2021) 81  ePrint: 2012.09903 [DOI](https://10.1007/JHEP04(2021)081) |
-| 2020 |LHCb Collaboration: Aaij,  R. and others. **Observation of a new baryon state in the $$\Lambda_b^0 \pi^+ \pi^-$$ mass spectrum.** JHEP 06 (2020) 136 ePrint: 2002.05112 [DOI](https://10.1007/JHEP06(2020)136) |
-| 2019 |LHCb Collaboration: Aaij,  R. and others. **Observation of new resonances in the $$\Lambda_b^0 \pi^+ \pi^-$$ system.** PRL 123 (2019) 15, 152001 ePrint: 1907.13598 [DOI](https://10.1103/PhysRevLett.123.152001) |
-| 2019 |LHCb Collaboration: Aaij,  R. and others. **Observation of two resonances in $$\Lambda_b^0 \pi^\pm$$ and precise measurement of $$\Sigma_b^\pm$$ and $$\Sigma_b^{*\pm}$$ properties.** PRL 122 (2019) 1, 012001 ePrint: 1809.07752 [DOI](https://10.1103/PhysRevLett.122.012001) |
+| 2020 |LHCb Collaboration: Aaij,  R. and others. **Measurement of CP observables in $$B^\pm \to D^{(*)} h^\pm$$ decays using two-body D final states.** JHEP 04 (2021) 81  ePrint: 2012.09903. [DOI](https://10.1007/JHEP04(2021)081) |
+| 2020 |LHCb Collaboration: Aaij,  R. and others. **Observation of a new baryon state in the $$\Lambda_b^0 \pi^+ \pi^-$$ mass spectrum.** JHEP 06 (2020) 136 ePrint: 2002.05112. [DOI](https://10.1007/JHEP06(2020)136) |
+| 2019 |LHCb Collaboration: Aaij,  R. and others. **Observation of new resonances in the $$\Lambda_b^0 \pi^+ \pi^-$$ system.** PRL 123 (2019) 15, 152001 ePrint: 1907.13598. [DOI](https://10.1103/PhysRevLett.123.152001) |
+| 2019 |LHCb Collaboration: Aaij,  R. and others. **Observation of two resonances in $$\Lambda_b^0 \pi^\pm$$ and precise measurement of $$\Sigma_b^\pm$$ and $$\Sigma_b^{*\pm}$$ properties.** PRL 122 (2019) 1, 012001 ePrint: 1809.07752. [DOI](https://10.1103/PhysRevLett.122.012001) |
+| 2018 |LHCb Collaboration: Aaij,  R. and others. **Search for beautiful tetraquarks in the $$\Upsilon(1S)\mu\mu$$ invariant-mass spectrum.** JHEP 10 (2018) 086  ePrint: 1806.09707. [DOI](https://10.1007/JHEP10(2018)086) |
+| 2018 |LHCb Collaboration: Aaij,  R. and others. **Central exclusive production of $$J/\psi$$￼and $$\psi(2S)$$ mesons in pp collisions at $\sqrt{s} = 13$￼TeV.** JHEP 10 (2018) 167 ePrint: 1806.04079. [DOI](https://10.1007/JHEP10(2018)167) |
+| 2018 | Akiba, K. and others. **The HeRSCheL detector: high-rapidity shower counters for LHCb.** JINST 13 (2018) 04, P04017 ePrint: 1801.04281. [DOI](https://10.1088/1748-0221/13/04/P04017) |
+| 2017 |LHCb Collaboration: Aaij,  R. and others. **Measurement of CP observables in $$B^\pm \rightarrow D(*)K^\pm$$￼and $$B^\pm \rightarrow D(*)\pi^\pm$$￼decays.** PLB 777 (2018) 16-30 ePrint: 1708.06370 [DOI](https://10.1016/j.physletb.2017.11.070)|
+| 2017 |LHCb Collaboration: Aaij,  R. and others. **$$\chi_{c1}$$ and $$\chi_{c2}$$ resonance parameters with the decays $$\chi_{c1,c2} \rightarrow J/\psi \mu^+\mu^-$$.** PRL 119 (2017) 22, 221801 ePrint: 1709.04247 [DOI](https://10.1103/PhysRevLett.119.221801)|
 
 
 
-| 2018 |LHCb Collaboration: Aaij,  R. and others. **Search for beautiful tetraquarks in the $$\Upsilon(1S)\mu\mu$$ invariant-mass spectrum.** JHEP 10 (2018) 086  ePrint: 1806.09707 [DOI](https://10.1007/JHEP10(2018)086) |
-| 2018 |LHCb Collaboration: Aaij,  R. and others. **Central exclusive production of ￼ and ￼ mesons in pp collisions at ￼ TeV.** JHEP 10 (2018) 167 ePrint: 1806.04079 [DOI](https://10.1007/JHEP10(2018)167) |
-| 2018 | Akiba, K. and others. **The HeRSCheL detector: high-rapidity shower counters for LHCb.** JINST 13 (2018) 04, P04017 ePrint: 1801.04281 [DOI](https://10.1088/1748-0221/13/04/P04017) |
-| 2017 |LHCb Collaboration: Aaij,  R. and others. **Measurement of CP observables in ￼ and ￼ decays.** PLB 777 (2018) 16-30 ePrint: 1708.06370 [DOI](https://10.1016/j.physletb.2017.11.070)|
-| 2017 |LHCb Collaboration: Aaij,  R. and others. ** and ￼  resonance parameters with the decays ￼.** PRL 119 (2017) 22, 221801 ePrint: 1709.04247 [DOI](https://10.1103/PhysRevLett.119.221801)|
+
 | 2016 |LHCb Collaboration: Aaij,  R. and others. **Measurement of the properties of the ￼ baryon.** JHEP 05 (2016) 161 ePrint: 1604.03896 [DOI](https://10.1007/JHEP05(2016)161)|
 | 2016 |LHCb Collaboration: Aaij,  R. and others. **Measurement of the CKM angle ￼ from a combination of LHCb analyses.** JHEP 12 (2016) 087 ePrint: 1611.03076 [DOI](https://10.1007/JHEP12(2016)087)|
 | 2015 |LHCb Collaboration: Aaij,  R. and others. **Evidence for the strangeness-changing weak decay  .** PRL 115 (2015) 24, 241801 ePrint: 1510.03829 [DOI](https://10.1103/PhysRevLett.115.241801)|

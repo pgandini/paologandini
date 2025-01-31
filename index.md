@@ -3,6 +3,11 @@ title: Home
 layout: home
 nav_order: 1
 ---
+
+<p align="center">
+<img src="assets/images/profile1.png" alt="Paolo Gandini" style="width:20%; border:0;">
+</p>
+
 ![Profile Picture](assets/images/profile1.png)
 # Paolo Gandini
 

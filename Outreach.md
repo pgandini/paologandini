@@ -53,7 +53,8 @@ I am involved in the organization of the INFN stand for the **European Researche
 - Location: Royal Society, London
 - Audience: 10k+ persons
  
-"Stand alla convention “Summer Science Exhibition”, organizzata dalla Royal Society. Ho realizzato diversi esperimenti sulla violazione CP e ho rappresentato il gruppo di LHCb Oxford. Lo stand ha poi visitato altre fiere e dipartimenti UK negli anni successivi."
+I designed several mock-up experiments on CP violation and how to explain it to a general non-specialistic audience.
+This stand has been touring the UK for several national science festivals.
 
 ---
 

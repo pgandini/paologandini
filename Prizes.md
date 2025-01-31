@@ -9,6 +9,7 @@ nav_order: 5
 - Società Italiana di Fisica (SIF)
   
 https://www.sif.it/attivita/altri_premi/bando_pancini/vincitori
+
 Premio riservato ad un giovane ricercatore laureato in Fisica di età non superiore ai 35 anni che abbia
 ottenuto un risultato significativo nell'ambito delle sue ricerche sperimentali in Fisica Nucleare o
 Subnucleare.

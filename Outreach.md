@@ -8,7 +8,7 @@ Here are my outreach activities.
 
 
 ---
-<img src="assets/images/lab2go.png" alt="lab2go" style="height:150px; border:0;">
+<img src="assets/images/lab2go.png" href="https://web.infn.it/lab2go/" alt="lab2go" style="height:150px; border:0;">
 
 ## [Lab2go](https://web.infn.it/lab2go/)
 - Dates: from 2022 - present

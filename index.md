@@ -7,6 +7,7 @@ nav_order: 1
 # Paolo Gandini
 
 **Primo Ricercatore INFN**
+
 **OrcidID: [0000-0001-7267-6008](https://orcid.org/0000-0001-7267-6008)**
 
 I am a staff researcher at Istituto Nazionale Fisica Nucleare (INFN).

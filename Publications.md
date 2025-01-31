@@ -16,7 +16,7 @@ My complete list of publications can be found on [[INSPIRE]](https://inspirehep.
 | 2024 |The ALADDIN proto-collaboration. **ALADDIN: An Lhc Apparatus for Direct Dipole moments INvestigation. Letter Of Intent.** CERN-LHCC-2024-01, LHCC-I-041. [DOI](https://doi.org/10.17181/CERN.2G4V.0YAO) |
 | 2024 |LHCb Collaboration: Aaij,  R. and others. **The LHCb Upgrade I. Technical Design Report.** JINST 19 P05065. [DOI](https://doi.org/10.1088/1748-0221/19/05/P05065) |
 | 2022 |Beteta, C. and others. **The SALT, readout ASIC for silicon strip sensors of upstream tracker in the upgraded LHCb.** Sensors (2022) 22(1) 107.  [DOI](https://10.3390/s22010107) |
-| 2020 |LHCb Collaboration: Aaij,  R. and others. **Measurement of CP observables in $B^\pm \to D^{(*)} h^\pm$ decays using two-body D final states.** JHEP 04 (2021) 81  ePrint: 2012.09903 [DOI](https://10.1007/JHEP04(2021)081) |
+| 2020 |LHCb Collaboration: Aaij,  R. and others. **Measurement of CP observables in $$B^\pm \to D^{(*)} h^\pm$$ decays using two-body D final states.** JHEP 04 (2021) 81  ePrint: 2012.09903 [DOI](https://10.1007/JHEP04(2021)081) |
 
 
 

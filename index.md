@@ -3,7 +3,6 @@ title: Home
 layout: home
 nav_order: 1
 ---
-{{site.sitename}}
 
 <p align="center">
 <img src="assets/images/profile1.png" alt="Paolo Gandini" style="width:90%; border:0;">

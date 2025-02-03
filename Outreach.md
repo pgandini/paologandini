@@ -47,8 +47,10 @@ I am involved in the organization of the INFN stand for the **European Researche
 
 ---
 
-
+<p align="center">
+<a href="https://www.facebook.com/Antimatter2016/">
 <img src="assets/images/antimattermatters.png" alt="Antimatter Matters" style="width:100%; border:0;">
+</a>
 </p>
 
 ## [Antimatter Matters (Summer Science Exhibition 2016)](http://antimatter-matters.org/)

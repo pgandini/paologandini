@@ -46,14 +46,13 @@ The project involves the design and construction of a portable cloud chamber for
 I am involved in the organization of the INFN stand for the **European Researchers’ Night**, which takes place in Milan at the Museum of Science and Technology (yearly). I also serve as a guide for the exhibition **Extreme** on particle physics.
 
 ---
-
 <p align="center">
 <a href="https://www.facebook.com/Antimatter2016/">
 <img src="assets/images/antimattermatters.png" alt="Antimatter Matters" style="width:100%; border:0;">
 </a>
 </p>
 
-## [Antimatter Matters (Summer Science Exhibition 2016)](http://antimatter-matters.org/)
+## [Antimatter Matters (Summer Science Exhibition 2016)](https://www.facebook.com/Antimatter2016/)
 - Dates: 4th July - 10th july 2016
 - Location: Royal Society, London
 - Audience: 10k+ persons

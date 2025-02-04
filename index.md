@@ -19,8 +19,8 @@ I am also a proponent of the ALADDIN experiment, a new proposed experiment at LH
 Feel free to explore my work and reach out for collaborations or discussions!
 
 
-<p align="center">
+<p align="left">
 <a href="https://orcid.org/0000-0001-7267-6008">
-<img src="assets/icons/orcid.svg" alt="OrcidID" style="width:50pt; border:0;">
+<img src="assets/icons/orcid.svg" alt="OrcidID" style="width:25pt; border:0;">
 </a>
 </p>

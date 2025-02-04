@@ -36,7 +36,11 @@ The activities take place within the school facilities in collaboration with cla
 The project involves the design and construction of a portable cloud chamber for outreach activities. The goal is to develop a fully functional, cost-effective instrument that can potentially be acquired by schools and institutions for their educational activities.
 
 ---
-<img src="assets/images/europeannight.png" alt="Researchers Night" style="height:150px; border:0;">
+<p align="center">
+<a href="https://collisioni.infn.it/evento/linfn-alla-notte-europea-delle-ricercatrici-e-dei-ricercatori-2023/">
+<img src="assets/images/europeannight.png" alt="Researchers Night" style="width:100%; border:0;">
+</a>
+</p>
 
 ## [European Researchers’ Night](https://collisioni.infn.it/evento/linfn-alla-notte-europea-delle-ricercatrici-e-dei-ricercatori-2023/)
 - Dates: from 2021 - present
@@ -62,8 +66,8 @@ This stand has been touring the UK for several national science festivals.
 
 ---
 
-## CERN and LHCb official guide
-From 2013, I am a trained guide for official visits at CERN and the LHCb experiment
+## [CERN and LHCb official guide](https://visit.cern/guided-tours)
+From 2013, I am a trained guide for official visits at CERN and the LHCb experiment.
 
 
 

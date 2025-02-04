@@ -1,7 +1,7 @@
 ---
 title: Gallery
 layout: gallery
-nav_order: 7
+nav_order: 6
 galleries:
   - title: Link to homepage
     image: /uploads/album/1.jpg

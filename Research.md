@@ -42,8 +42,8 @@ This final state is considered one of the golden channels for measuring the CKM 
 
 ---
 
-### 5. Development, Construction, and Characterization of Front-End Circuits for the Upstream Tracker
-The Upstream Tracker (UT) is a silicon strip detector located before the magnetic dipole of LHCb. The detector consists of four planes, each approximately 1m², arranged in vertical staves made of sensors, each with an approximate silicon surface area of 10x10 cm, equipped with high-density strips.
+### The front-end circuits of the Upstream Tracker
+The Milano group was involved in the development, construction, and characterization of front-end circuits of the Upstream Tracker. The Upstream Tracker (UT) is a silicon strip detector located before the magnetic dipole of LHCb. The detector consists of four planes, each approximately 1m², arranged in vertical staves made of sensors, each with an approximate silicon surface area of 10x10 cm, equipped with high-density strips.
 <details>
 <summary>read more...</summary>
 The design is characterized by high detection efficiency, high strip density to manage the expected high occupancy in the detector, and a low radiation length to minimize multiple scattering. A circular cutout of the inner sensors was made to maximize the sensitive area around the beam pipe. At the Milano section, I was responsible for the entire production chain of the hybrid front-end circuits. This included the development, construction, and mechanical and electrical characterization of all the hybrid circuits currently installed on the new tracker.
@@ -53,16 +53,14 @@ The production program involved the fabrication and delivery of:
 	- Over 110 **SUSI** hybrids with 8 chips, featuring similar characteristics but with double the channel density to instrument the central part of the tracker where occupancy is highest.
 
 The Milano team handled the following tasks:
-	- Bonding: We developed a system for bonding the chips with conductive glue. Given the high expected radiation flux, the glue was characterized by radiation tests. I was also responsible for irradiation campaigns to test the radiation hardness of the materials and adhesives used.
-	•	Bonding: For all analog and digital channels.
-	•	Burn-in: Each board was placed in a climatic chamber for 7 days at 60°C and powered according to a specific protocol to identify any early failures. These tests were conducted on all boards.
-	•	Electrical testing: All channels were tested to evaluate the performance of the bonded chips, both before and after the high-temperature stress test.
-	•	Optical inspection: Quality control of the bonding, including sample pull tests.
-	•	Shipping: We developed a controlled environment storage and transportation system to ensure safe air delivery to colleagues in Syracuse, who handled the subsequent stave construction.
+- Glueing: We developed a system for bonding the chips with conductive glue. Given the high expected radiation flux, the glue was characterized by radiation tests. I was also responsible for irradiation campaigns to test the radiation hardness of the materials and adhesives used.
+- Bonding: For all analog and digital channels.
+- Burn-in: Each board was placed in a climatic chamber for 7 days at 60°C and powered according to a specific protocol to identify any early failures. These tests were conducted on all boards.
+- Electrical testing: All channels were tested to evaluate the performance of the bonded chips, both before and after the high-temperature stress test.
+- Optical inspection: Quality control of the bonding, including sample pull tests.
+- Shipping: We developed a controlled environment storage and transportation system to ensure safe air delivery to colleagues in Syracuse University (US), who handled the subsequent stave construction.
 
-All aspects of this work were designed in Milano, including the techniques and the development of all the necessary tools. In addition to the production activities, I also oversaw the reorganization of the clean room, the management of shifts and workflows, and the coordination with the industries involved in the construction of the bare flex.
-
-The construction and delivery of the circuits were completed fully according to the planned timeline.
+All aspects of this work were designed in Milano, including the techniques and the development of all the necessary tools. In addition to the production activities, I also oversaw the reorganization of the clean room, the management of shifts and workflows, and the coordination with the industries involved in the construction of the bare flexes. The construction and delivery of the circuits were completed fully according to the planned timeline.
 </details>
 
 

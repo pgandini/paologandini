@@ -7,6 +7,10 @@ nav_order: 3
 # Research Interests
 Below are my key research interests, ranging from data analysis to software and hardware development for high-energy physics.
 
+<p align="center">
+<img src="assets/images/Xibpi.png" alt="Data Analysis" style="width:80%; border:0;">
+</p>
+
 ---
 
 ### Data Analysis - Spectroscopy of new states at LHCb

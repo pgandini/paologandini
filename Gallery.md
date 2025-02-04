@@ -1,6 +1,6 @@
 ---
 title: Gallery
-layout: page
+layout: gallery
 nav_order: 7
 ---
-{% include image-gallery.html folder="/assets/gallery" %}
+Gallery

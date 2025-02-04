@@ -30,11 +30,13 @@ This project had proven to be particularly challenging due to the synergy betwee
 ---
 
 ### Data Analysis - CP violation and CKM matrix
+I was the lead author of the first analysis on tree-level b → c transitions, which formed the core of my PhD research. This work led to the first experimental observation of the suppressed B → DK decay channel using the ADS/GLW method.
 <details>
-<summary>read more...</summary>
-I was the lead author of the first analysis on tree-level b→c transitions. This was the primary focus of my PhD research and led to the first experimental observation of the suppressed B→DK decay channel using the ADS/GLW method. This final state is considered one of the golden channels for measuring the CKM matrix angle γ, which is one of the key physics goals for which the LHCb experiment was originally proposed. The tools I developed are still in use within LHCb, while the Probability Density Functions (PDFs) I designed to model partially reconstructed backgrounds—where a particle is lost in the decay chain—have been applied to asymmetry measurements in other channels involving neutral particles. Additionally, I was involved in the development of the frequentist fitter to the CKM γ angle that is still used by the collaboration today.
+<summary>read more...</summary>  
+This final state is considered one of the golden channels for measuring the CKM matrix angle γ, a key physics objective for which the LHCb experiment was originally conceived. The tools I developed remain in use within LHCb, and the Probability Density Functions (PDFs) I designed to model partially reconstructed backgrounds—where a particle is lost in the decay chain—have been applied to asymmetry measurements in other channels involving neutral particles. Additionally, I contributed to the development of the frequentist fitter for the CKM angle γ, which continues to be a standard tool used by the collaboration today.
 </details>
 
+---
 
 ### 5. Sviluppo, Costruzione, Caratterizzazione dei Circuiti di Front-end dell’Upstream Tracker
 <details>

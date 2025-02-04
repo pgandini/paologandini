@@ -15,6 +15,7 @@ My complete list of publications can be found on [[INSPIRE]](https://inspirehep.
 | 2024 |The ALADDIN proto-collaboration: Neri, N. and others. **Advancements in techniques for measuring dipole moments of short-lived particles at the LHC.** NIMA 169875. (2024) [DOI](https://doi.org/10.1016/j.nima.2024.169875) |
 | 2024 |The ALADDIN proto-collaboration. **ALADDIN: An Lhc Apparatus for Direct Dipole moments INvestigation. Letter Of Intent.** CERN-LHCC-2024-01, LHCC-I-041. [DOI](https://doi.org/10.17181/CERN.2G4V.0YAO) |
 | 2024 |LHCb Collaboration: Aaij,  R. and others. **The LHCb Upgrade I. Technical Design Report.** JINST 19 P05065. [DOI](https://doi.org/10.1088/1748-0221/19/05/P05065) |
+| 2023 |LHCb Collaboration: Aaij,  R. and others. ** Observation of new baryons in the $$\Xi_b^- \pi^+ \pi^-$$ and $$\Xi_b^0 \pi^+ \pi^-$$  systems.** PRL 131, 171901 ePrint: 2307.13399 [DOI](https://10.1103/PhysRevLett.131.171901) |
 | 2022 |Beteta, C. and others. **The SALT, readout ASIC for silicon strip sensors of upstream tracker in the upgraded LHCb.** Sensors (2022) 22(1) 107.  [DOI](https://10.3390/s22010107) |
 | 2020 |LHCb Collaboration: Aaij,  R. and others. **Measurement of CP observables in $$B^\pm \to D^{(*)} h^\pm$$ decays using two-body D final states.** JHEP 04 (2021) 81  ePrint: 2012.09903. [DOI](https://10.1007/JHEP04(2021)081) |
 | 2020 |LHCb Collaboration: Aaij,  R. and others. **Observation of a new baryon state in the $$\Lambda_b^0 \pi^+ \pi^-$$ mass spectrum.** JHEP 06 (2020) 136 ePrint: 2002.05112. [DOI](https://10.1007/JHEP06(2020)136) |

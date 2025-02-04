@@ -23,7 +23,7 @@ Awarded to an early-career physics researcher under the age of 35 for achieving 
 ---
 <p align="center">
 <a href="https://link.springer.com/book/10.1007/978-3-319-01029-8">
-<img src="assets/images/springer.png" alt="Springer Thesis" style="width:100%; border:0;">
+<img src="assets/images/springer.png" alt="Springer Thesis" style="width:50%; border:0;">
 </a>
 </p>
 

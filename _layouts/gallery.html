@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-{% include image-gallery.html folder="/assets/gallery" %}
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
 {{ content }}

@@ -8,7 +8,7 @@ nav_order: 3
 Below are my key research interests, ranging from data analysis to software and hardware development for high-energy physics.
 
 <p align="center">
-<img src="assets/images/Xibpi.png" alt="Data Analysis" style="width:100%; border:0;">
+<img src="assets/images/Xibpi.png" alt="Data Analysis" style="width:95%; border:0;">
 </p>
 
 ---
@@ -42,25 +42,27 @@ This final state is considered one of the golden channels for measuring the CKM 
 
 ---
 
-### 5. Sviluppo, Costruzione, Caratterizzazione dei Circuiti di Front-end dell’Upstream Tracker
+### 5. Development, Construction, and Characterization of Front-End Circuits for the Upstream Tracker
+The Upstream Tracker (UT) is a silicon strip detector located before the magnetic dipole of LHCb. The detector consists of four planes, each approximately 1m², arranged in vertical staves made of sensors, each with an approximate silicon surface area of 10x10 cm, equipped with high-density strips.
 <details>
 <summary>read more...</summary>
-L’Upstream Tracker (UT) consiste in un rivelatore a strip di silicio situato prima del dipolo magnetico di LHCb. Il detector è composto da 4 piani di circa 1m2 ciascuno, organizzati in “stave” verticali di sensori, con una superficie approssimativamente di 10x10cm di silicio ciascuno, instrumentati con strip ad alta densità.
-Il design è caratterizzato da una alta efficienza di rivelazione (gapless), alta densità di strip per gestire la grande occupanza attesa nel detector e una bassa lunghezza di radiazione per minimizzare il multiple scattering. E’ stato realizzato un cutout circolare dei sensori più interni per massimizzare l’area sensibile attorno alla beampipe.
-Presso la sezione di Milano, sono stato responsabile di tutta la filiera di costruzione dei circuiti ibridi del front end. Questo ha previsto lo sviluppo, la costruzione, la caratterizzazione meccanica ed elettrica di tutti i circuiti ibridi attualmente montati sul nuovo tracciatore.
-Il programma di produzione ha previsto la produzione e consegna di
-Più di 1100 ibridi denominati “VERA” a 4 chip (4400 chip, detector grade, con un numero di canali non funzionanti minore del per mille), ciascuno con 128 canali.
-Piu di 110 ibridi denominati “SUSI” a 8 chip, con caratteristiche simili ma aventi una densità di canali doppia per instrumentare la parte centrale del tracciatore dove l’occupanza è maggiore.
-Il lavoro di Milano ha previsto:
-Incollaggio: si è sviluppato un sistema di incollaggio dei chip con colla conduttiva. Date le grandi fluenze previste, la colla è stata caratterizzata da test di radiazione. Mi sono inoltre occupato delle campagne di irraggiamento per testare la radiation-hardness dei materiali e collanti impiegati.
-Bonding: di tutti i canali analogici e digitali 
-Burn-in: ogni scheda è stata inserita in una camera climatica per 7 giorni a 60 gradi ed alimentata secondo un protocollo ben preciso, in maniera da evidenziare eventuali early failures. I test sono stati effettuate su tutte le schede
-Test elettrico: di tutti i canali per valutare la performance dei chip bondati, prima e dopo lo stress test ad alta temperatura.
-Ispezione ottica: controllo qualità dei bonding ed eventual pull test a campione
-Spedizione: abbiamo sviluppato un sistema di storage e trasporto ad ambiente controllato per garantire una delivery via aerea ai colleghi di Syracuse, che si sono occupati delle successive operazioni di costruzione delle staves.
-Tutti i punti descritti sono stati ideati a Milano, comprese le tecniche e la realizzazione di tutti i tool necessari. 
-Accanto alle attività di produzione, mi sono inoltre occupato della riorganizzazione della camera pulita, dell’organizzazione dei turni e del lavoro, nonché della gestione dei rapporti con le industrie coinvolte nella costruzione dei bare flex. 
-La costruzione e consegna dei circuiti è stata ultimata completamente secondo le tempistiche.
+The design is characterized by high detection efficiency, high strip density to manage the expected high occupancy in the detector, and a low radiation length to minimize multiple scattering. A circular cutout of the inner sensors was made to maximize the sensitive area around the beam pipe. At the Milano section, I was responsible for the entire production chain of the hybrid front-end circuits. This included the development, construction, and mechanical and electrical characterization of all the hybrid circuits currently installed on the new tracker.
+
+The production program involved the fabrication and delivery of:
+	- Over 1100 **VERA** hybrids with 4 chips (4400 detector-grade chips with fewer than 1000 non-functional channels), each with 128 channels.
+	- Over 110 **SUSI** hybrids with 8 chips, featuring similar characteristics but with double the channel density to instrument the central part of the tracker where occupancy is highest.
+
+The Milano team handled the following tasks:
+	- Bonding: We developed a system for bonding the chips with conductive glue. Given the high expected radiation flux, the glue was characterized by radiation tests. I was also responsible for irradiation campaigns to test the radiation hardness of the materials and adhesives used.
+	•	Bonding: For all analog and digital channels.
+	•	Burn-in: Each board was placed in a climatic chamber for 7 days at 60°C and powered according to a specific protocol to identify any early failures. These tests were conducted on all boards.
+	•	Electrical testing: All channels were tested to evaluate the performance of the bonded chips, both before and after the high-temperature stress test.
+	•	Optical inspection: Quality control of the bonding, including sample pull tests.
+	•	Shipping: We developed a controlled environment storage and transportation system to ensure safe air delivery to colleagues in Syracuse, who handled the subsequent stave construction.
+
+All aspects of this work were designed in Milano, including the techniques and the development of all the necessary tools. In addition to the production activities, I also oversaw the reorganization of the clean room, the management of shifts and workflows, and the coordination with the industries involved in the construction of the bare flex.
+
+The construction and delivery of the circuits were completed fully according to the planned timeline.
 </details>
 
 

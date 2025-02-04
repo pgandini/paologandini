@@ -45,7 +45,6 @@ The project involves the design and construction of a portable cloud chamber for
 ## [European Researchers’ Night](https://collisioni.infn.it/evento/linfn-alla-notte-europea-delle-ricercatrici-e-dei-ricercatori-2023/)
 - Dates: from 2021 - present
 - Target: General audience
-- Role: Representative for INFN Milano
 
 I am involved in the organization of the INFN stand for the **European Researchers’ Night**, which takes place in Milan at the Museum of Science and Technology (yearly). I also serve as a guide for the exhibition **Extreme** on particle physics.
 

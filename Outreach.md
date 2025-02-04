@@ -9,7 +9,7 @@ In science, Outreach refers to activities that engage the public, educators, and
 ---
 <p align="center">
 <a href="https://web.infn.it/lab2go/">
-<img src="assets/images/lab2go" alt="Lab2go" style="width:100%; border:0;">
+<img src="assets/images/lab2go.png" alt="Lab2go" style="width:100%; border:0;">
 </a>
 </p>
 

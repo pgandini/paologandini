@@ -49,8 +49,8 @@ The Milano group was involved in the development, construction, and characteriza
 The design is characterized by high detection efficiency, high strip density to manage the expected high occupancy in the detector, and a low radiation length to minimize multiple scattering. A circular cutout of the inner sensors was made to maximize the sensitive area around the beam pipe. At the Milano section, I was responsible for the entire production chain of the hybrid front-end circuits. This included the development, construction, and mechanical and electrical characterization of all the hybrid circuits currently installed on the new tracker.
 
 The production program involved the fabrication and delivery of:
-	- Over 1100 **VERA** hybrids with 4 chips (4400 detector-grade chips with fewer than 1000 non-functional channels), each with 128 channels.
-	- Over 110 **SUSI** hybrids with 8 chips, featuring similar characteristics but with double the channel density to instrument the central part of the tracker where occupancy is highest.
+- Over 1100 **VERA** hybrids with 4 chips (4400 detector-grade chips with fewer than 1000 non-functional channels), each with 128 channels.
+- Over 110 **SUSI** hybrids with 8 chips, featuring similar characteristics but with double the channel density to instrument the central part of the tracker where occupancy is highest.
 
 The Milano team handled the following tasks:
 - Glueing: We developed a system for bonding the chips with conductive glue. Given the high expected radiation flux, the glue was characterized by radiation tests. I was also responsible for irradiation campaigns to test the radiation hardness of the materials and adhesives used.
@@ -63,48 +63,38 @@ The Milano team handled the following tasks:
 All aspects of this work were designed in Milano, including the techniques and the development of all the necessary tools. In addition to the production activities, I also oversaw the reorganization of the clean room, the management of shifts and workflows, and the coordination with the industries involved in the construction of the bare flexes. The construction and delivery of the circuits were completed fully according to the planned timeline.
 </details>
 
+---
 
-#### 6. Technical Design Report (TDR) e Simulazione
+### Technical Design Report (LHCb upgrade)
+I contributed to writing the Technical Design Report (TDR) for the Upstream Tracker as part of the upgrade to the LHCb tracker. I was responsible for the initial simulations of the detector under the new high pile-up experimental conditions.
 <details>
 <summary>read more...</summary>
-Ho partecipato alla scrittura del Technical Design Report (TDR) dell’Upstream Tracker per l’upgrade del tracciatore di LHCb.
-Mi sono occupato delle prime simulazioni del detector nelle nuove condizioni sperimentali ad alto pile-up. Sono stato responsabile della caratterizzazione del ghost-rate e dell’efficienza di tracciamento per ottimizzare il design.
-Accanto a tale attività di simulazione, ho coordinato il testing dei primi prototipi di silicio su fascio (al PS e SPS del CERN), con la caratterizzazione della loro performance, inclusa pubblicazione dei risultati su rivista specializzata (Testbeam studies of pre-prototype silicon strip sensors for the LHCb UT upgrade project NIM.A 806 (2016) 244-257).
+My role included characterizing the ghost rate and tracking efficiency to optimize the design. In addition to this simulation work, I coordinated the testing of the first silicon prototypes in beam tests (at CERN’s PS and SPS facilities), including the characterization of their performance. The results were published in the specialized journal: Testbeam studies of pre-prototype silicon strip sensors for the LHCb UT upgrade project, NIM.A 806 (2016) 244-257.
 </details>
 
+---
 
-#### 7. Online Monitoring dell’ Upstream Tracker (LHCb upgrade)
+### Online Monitoring (LHCb upgrade)
+I was responsible for developing all the necessary tools to monitor the detector’s data in real-time within the control room.
 <details>
 <summary>read more...</summary>
-L’UT è stato l’ultimo subdetector ad essere installato durante il Run3. Attualmente in fase di commissioning,  esso prevede un intenso periodo di calibrazione e allineamento al resto del detector.
-Il suo monitoring è stato individuato dal management dell’esperimento come uno di task cruciali per avere una presa dati di successo nell’anno prossimo
-Sono responsabile della realizzazione di tutti i tool necessari per monitorare i dati del detector in real-time nella control room. E’ richiesta l’integrazione con il software esistente offline e lo sviluppo di opportuni decoder delle raw banks /histogrammer e hitmaps /  performance plot non ancora disponibili.
+This involves integrating with the existing offline software and developing appropriate decoders for the raw banks, histogramming, hitmaps, and performance plots, which are not yet available.
 </details>
 
+---
 
-#### 8. Tracking 4D hardware: Progetto Timespot e relativi sviluppi
+### 4D hardware tracking: Timespot
+I was part of the Timespot project, funded by INFN with a total budget of 1 million euros. The program aimed to develop technologies for real-time 4D tracking.
+
+---
+
+### The ALADDIN experiment at LHC.
+I am a founding member of the ALADDIN collaboration (established in 2024). The project is part of the search for new experiments at the LHC accelerator, typically smaller in scale compared to the existing General Purpose Detectors. ALADDIN (An Lhc Apparatus for Direct Dipole moments INvestigation) is a small fixed-target experiment at the LHC, which will enable a unique program of measurements of charm baryon electromagnetic dipole moments.
 <details>
 <summary>read more...</summary>
-Per espandere le mie competenze in chiave di sviluppo di nuove tecnologie utili per lo sviluppo di esperimenti futuri, ho fatto parte del progetto Timespot (https://web.infn.it/timespot/), call di gruppo 5 finanziata dall’ INFN (1M euro totali). 
-Il programma ha come obiettivo lo sviluppo di tecnologie per il tracking real time in 4D. Il progetto è terminato, ma ulteriori sviluppi sono tuttora in corso tramite altri progetti attivi nella sezione di Milano ed in altri dipartimenti (e.g. progetto ATTRACT).
-Con l’aiuto di un postdoc e un ingegnere, si è realizzato un dimostratore per un sistema di tracciatura hardware codificato in FPGA che possa avere performance mai raggiunte prima a clock rates di 40MHz. L’idea è di applicare tali tecnologie a detector di nuova concezione (timescale 2025-2030), in cui la misura del timing risulta fondamentale per poter funzionare ai rate di raccolta dati previsti nei detector di nuova generazione attualmente in fase di concept-design (tempo di arrivo delle particelle su ciascun piano sensibile di 30ps in pixel di dimensioni trasverse di 50um).
+The experiment relies on an innovative storage-ring layout capable of deflecting protons from the beam halo towards a solid target paired to a bent crystal where forward-boosted charm baryons are produced and channelled. Exploiting the spin precession induced by the channelling phenomena in the bent crystal, the magnetic and electric dipole moments can be measured by analysing the polarisation of the decaying charm baryons. The ALADDIN apparatus features a 4.4 m long spectrometer and a 5.0 m long RICH detector for particle identification, which could be installed at the LHC Insertion Region 3, without civil engineering and with minimal impact on the LHC machine operations, during the Long Shutdown 3 to start data taking in Run4.
+
+A proof-of-principle test at the LHC, named TWOCRYST, is currently under way to demonstrate the feasibility of the proposed experiment in 2025.
 </details>
 
-
-#### 9. Progetto EDIPO: Experiment for DIPOle moments of short-lived heavy fermions at LHC
-<details>
-<summary>read more...</summary>
-  - I am a founding member of the ALADDIN collaboration (established in 2024).
-
-Il progetto EDIPO si inserisce nella ricerca di nuove possibilità per la realizzazioni di nuovi esperimenti sull’acceleratore LHC (generalmente di dimensioni ridotte se comparati ai General Purpose Detector). Il progetto EDIPO prevede la realizzazione di un dimostratore per un nuovo esperimento a targhetta fissa ad LHC. L’idea è di effettuare un test proof-of-principle da testare su fascio al SPS.
-Si propone la misura diretta dei momenti di dipolo elettrico e magnetico di fermioni pesanti short-lived (charm and beauty baryons e il leptone τ). Queste misure sono sensibili a fisica sia del Modello Standard che oltre (BSM) e sono basate sulla precessione dello spin di particelle polarizzate in campi elettromagnetici estremamente intensi. La precessione viene realizzata tramite “channeling” delle particelle in cristalli curvi posti accanto al fascio principale.
-Uno studio di fattibilità è in considerazione presso il gruppo di acceleratori al CERN ed è stata individuata una sezione dritta della macchina per questo nuovo esperimento alla Insertion Region 3 (IR3), una sezione attualmente dedicata alla pulizia dei fasci di LHC. Tale misure risultano complementari ad altre misure di precisione del Modello Standard (e.g. g-2).
-Il progetto EDIPO si prefigge di sviluppare simulazioni dettagliate dell’esperimento, l’ottimizzazione dei diversi layout e la valutazione delle possibili tecnologie impiegabili. Una stazione + sensore dell’attuale rivelatore di vertice di LHCb (VELO - silicon pixel detector) sarà caratterizzata ed adattata per contenere i costi di produzione sia dei sensori che del loro readout.
-Si prevede il design e la costruzione dell’hardware richiesto per includere tale sensore in una “Roman Pot”, come primo prototipo di stazione per il detector finale. Le Roman Pot saranno ispirate a quelle utilizzate per l’esperimento TOTEM al CERN.
-Si pensa di espandere il progetto includendo studi di fattibilità di fotoproduzione di stati esotici come pentaquark. Per tale attività si ricorrerà all’esperienza sviluppata nell’ambito delle analisi di CEP.
-</details>
-
-
-
-
-
+---

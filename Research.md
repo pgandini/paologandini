@@ -47,20 +47,9 @@ The Milano group was involved in the development, construction, and characteriza
 <details>
 <summary>read more...</summary>
 The design is characterized by high detection efficiency, high strip density to manage the expected high occupancy in the detector, and a low radiation length to minimize multiple scattering. A circular cutout of the inner sensors was made to maximize the sensitive area around the beam pipe. At the Milano section, I was responsible for the entire production chain of the hybrid front-end circuits. This included the development, construction, and mechanical and electrical characterization of all the hybrid circuits currently installed on the new tracker.
+The production program involved fabricating and delivering over 1,100 VERA hybrids with four chips, totaling 4,400 detector-grade chips with fewer than 1,000 non-functional channels, each with 128 channels. Additionally, more than 110 SUSI hybrids with eight chips were produced, featuring similar characteristics but double the channel density to instrument the central part of the tracker, where occupancy is highest.
 
-The production program involved the fabrication and delivery of:
-
- - Over 1100 **VERA** hybrids with 4 chips (4400 detector-grade chips with fewer than 1000 non-functional channels), each with 128 channels.
- - Over 110 **SUSI** hybrids with 8 chips, featuring similar characteristics but with double the channel density to instrument the central part of the tracker where occupancy is highest.
-
-The Milano team handled the following tasks:
-
- - Glueing: We developed a system for bonding the chips with conductive glue. Given the high expected radiation flux, the glue was characterized by radiation tests. I was also responsible for irradiation campaigns to test the radiation hardness of the materials and adhesives used.
- - Bonding: For all analog and digital channels.
- - Burn-in: Each board was placed in a climatic chamber for 7 days at 60°C and powered according to a specific protocol to identify any early failures. These tests were conducted on all boards.
- - Electrical testing: All channels were tested to evaluate the performance of the bonded chips, both before and after the high-temperature stress test.
- - Optical inspection: Quality control of the bonding, including sample pull tests.
- - Shipping: We developed a controlled environment storage and transportation system to ensure safe air delivery to colleagues in Syracuse University (US), who handled the subsequent stave construction.
+The Milano team managed multiple tasks throughout the process. For glueing, a specialized bonding system using conductive glue was developed, with the adhesive undergoing radiation tests due to the high expected radiation flux. I was also responsible for irradiation campaigns to assess the radiation hardness of materials and adhesives. Bonding was carried out for all analog and digital channels, followed by a burn-in phase where each board was placed in a climatic chamber for seven days at 60°C and powered according to a specific protocol to identify early failures. Electrical testing was conducted on all channels to evaluate the bonded chips’ performance, both before and after high-temperature stress tests. Optical inspections ensured bonding quality, including sample pull tests. Finally, a controlled environment storage and transportation system was developed to guarantee safe air delivery to colleagues at Syracuse University (US), who handled the subsequent stave construction.
 
 All aspects of this work were designed in Milano, including the techniques and the development of all the necessary tools. In addition to the production activities, I also oversaw the reorganization of the clean room, the management of shifts and workflows, and the coordination with the industries involved in the construction of the bare flexes. The construction and delivery of the circuits were completed fully according to the planned timeline.
 </details>

@@ -1,7 +1,7 @@
 ---
 title: Contacts
 layout: page
-nav_order: 6
+nav_order: 7
 ---
 # Contact me
 If you wish to contact me, here are my details:

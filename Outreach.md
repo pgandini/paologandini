@@ -4,15 +4,18 @@ layout: page
 nav_order: 5
 ---
 # Outreach (Terza missione)
-Here are my outreach activities.
-
+In science, Outreach refers to activities that engage the public, educators, and students to communicate scientific knowledge, promote awareness, and inspire interest in research and discovery. You can find here my activities.
 
 ---
-<img src="assets/images/lab2go.png" href="https://web.infn.it/lab2go/" alt="lab2go" style="height:150px; border:0;">
+<p align="center">
+<a href="https://web.infn.it/lab2go/">
+<img src="assets/images/lab2go" alt="Lab2go" style="width:100%; border:0;">
+</a>
+</p>
 
 ## [Lab2go](https://web.infn.it/lab2go/)
 - Dates: from 2022 - present
-- Target: Upper secondary schools
+- Target: Secondary schools
 - Role: Representative for INFN Milano
 
 The PCTO – LAB2GO project, founded by INFN and Sapienza University in Rome, aims to enhance the value of existing local laboratories and museums in secondary schools. 
@@ -27,11 +30,16 @@ The activities take place within the school facilities in collaboration with cla
 </details>
 
 ---
-<img src="assets/images/nuvoletta.png" alt="Nuvoletta" style="height:150px; border:0;">
+<p align="center">
+<a href="https://nuvoletta.mi.infn.it/">
+<img src="assets/images/nuvoletta.png" alt="Nuvoletta" style="width:100%; border:0;">
+</a>
+</p>
 
 ## [Progetto Nuvoletta](https://nuvoletta.mi.infn.it/)
 - Dates: from 2022 - present
 - Target: General audience
+- Author
 
 The project involves the design and construction of a portable cloud chamber for outreach activities. The goal is to develop a fully functional, cost-effective instrument that can potentially be acquired by schools and institutions for their educational activities.
 

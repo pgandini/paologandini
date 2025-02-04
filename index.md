@@ -12,7 +12,7 @@ nav_order: 1
 
 **Primo Ricercatore INFN**
 
-I am a staff researcher at the Istituto Nazionale di Fisica Nucleare (INFN) and an experimental particle physicist working on the LHCb experiment at CERN since 2009. Currently, I serve as the Deputy Principal Investigator (Deputy-PI) of the LHCb Milano group.
+I am a staff researcher at the Istituto Nazionale di Fisica Nucleare (INFN) and an experimental particle physicist working on the LHCb experiment at CERN since 2009. Currently, I serve as the Deputy Principal Investigator of the LHCb Milano group.
 My research focuses on data analysis, with a particular interest in heavy baryon spectroscopy and CP violation in the b-quark sector. In addition to data analysis, I am actively involved in hardware development and R&D for next-generation silicon detectors.
 I am also a proponent of the ALADDIN experiment, a new proposed experiment at LHC.
 

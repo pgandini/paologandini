@@ -1,6 +1,7 @@
 ---
 title: Prizes
-description: Prized awarded to Paolo Gandini, physicist at INFN Milano, CERN, LHCb
+description: Prizes awarded to Paolo Gandini, physicist at INFN Milano, CERN, LHCb
+excerpt: Prizes awarded to Paolo Gandini, physicist at INFN Milano, CERN, LHCb, Particle Physics, Flavour, Outreach, Scientist
 layout: page
 nav_order: 5
 ---

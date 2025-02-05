@@ -1,6 +1,7 @@
 ---
 title: Publications
 description: Selected publications of Paolo Gandini, physicist at INFN Milano, CERN, LHCb
+excerpt: Selected publications of Paolo Gandini, physicist at INFN Milano, CERN, LHCb, Particle Physics, Flavour, Outreach, Scientist
 layout: page
 nav_order: 4
 ---

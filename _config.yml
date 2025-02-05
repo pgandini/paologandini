@@ -31,6 +31,18 @@ instagram_url: https://www.instagram.com/paologandini/
 ######################################################
 last-modified-at:
     date-format: '%d-%b-%y'
+    
+jekyll_compose:
+  post_default_front_matter:
+    last_modified_at: 
+    permalink: 
+    description:
+    image:
+    published: true
+    sitemap: true
+    excerpt_separator: <!--more-->
+    categories:
+    tags:
 
 plugins:
   - jekyll-default-layout

@@ -1,6 +1,7 @@
 ---
 title: Outreach
 description: Outreach activities of Paolo Gandini, physicist at INFN Milano, CERN, LHCb. Activities aimed to a general public, students and museums
+excerpt: Outreach activities of Paolo Gandini, physicist at INFN Milano, CERN, LHCb. Activities aimed to a general public, students and museums
 layout: page
 nav_order: 5
 ---

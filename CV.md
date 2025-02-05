@@ -1,5 +1,6 @@
 ---
 title: Vitae
+description: Curriculum Vitae of Paolo Gandini, physicist at INFN Milano, CERN, LHCb
 layout: pdfviewer
 nav_order: 2
 ---

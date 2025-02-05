@@ -1,6 +1,7 @@
 ---
 title: Home
 description: This is the homepage of Paolo Gandini, physicist at INFN Milano, CERN, LHCb
+excerpt: This is the homepage of Paolo Gandini, physicist at INFN Milano, CERN, LHCb, Particle Physics, Flavour, Outreach, Scientist
 layout: home
 nav_order: 1
 ---

@@ -8,7 +8,7 @@ url: https://pgandini.github.io/paologandini/
 logo: "/assets/images/PG_extended.png"
 favicon_ico: "/assets/images/favicon.ico"
 color_scheme: gandini
-
+timezone: Europe/Rome
 ######################################################
 # Aux links for the upper right navigation
 aux_links:

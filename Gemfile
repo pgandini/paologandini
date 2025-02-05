@@ -10,4 +10,4 @@ gem "just-the-docs", "0.10.1" # pinned to the current release
 gem "jekyll-default-layout"
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
-
+gem "jekyll-last-modified-at"

@@ -31,3 +31,5 @@ instagram_url: https://www.instagram.com/paologandini/
 
 plugins:
   - jekyll-default-layout
+  - jekyll-seo-tag
+

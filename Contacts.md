@@ -1,5 +1,6 @@
 ---
 title: Contacts
+description: Contacts of Paolo Gandini, physicist at INFN Milano, CERN, LHCb
 layout: page
 nav_order: 7
 ---

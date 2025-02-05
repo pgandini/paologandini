@@ -1,6 +1,7 @@
 ---
 title: Research
 description: Research Interests of Paolo Gandini, physicist at INFN Milano, CERN, LHCb
+excerpt: Research Interests of Paolo Gandini, physicist at INFN Milano, CERN, LHCb, Particle Physics, Flavour, Outreach, Scientist
 layout: page
 nav_order: 3
 ---

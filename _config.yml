@@ -29,6 +29,8 @@ social: true
 linkedin_url: https://www.linkedin.com/in/paolo-gandini-04a47a18
 instagram_url: https://www.instagram.com/paologandini/
 ######################################################
+last-modified-at:
+    date-format: '%d-%b-%y'
 
 plugins:
   - jekyll-default-layout

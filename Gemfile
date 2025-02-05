@@ -11,3 +11,4 @@ gem "jekyll-default-layout"
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem "jekyll-last-modified-at"
+gem 'jekyll-compose'

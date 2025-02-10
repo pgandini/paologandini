@@ -31,6 +31,11 @@ instagram_url: https://www.instagram.com/paologandini/
 ######################################################
 last-modified-at:
     date-format: '%d-%b-%y'
+######################################################
+# SEO ga_tracking_ids.first == G-YFC979M817
+ga_tracking: G-YFC979M817
+ga_tracking_anonymize_ip: true
+######################################################
     
 jekyll_compose:
   post_default_front_matter:

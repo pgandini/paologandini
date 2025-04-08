@@ -6,6 +6,10 @@ layout: page
 nav_order: 5
 ---
 
+# 2025 Breakthrough Prize in Fundamental Physics
+As a member of the LHCb collaboration, I have been honored with the 2025 Breakthrough Prize in Fundamental Physics, awarded jointly to over 13,000 scientists across the four major LHC experiments.
+The names of all winners can be found at https://breakthroughprize.org/Laureates/1
+ 
 ---
 <p align="center">
 <a href="https://www.sif.it/attivita/altri_premi/bando_pancini/vincitori">
